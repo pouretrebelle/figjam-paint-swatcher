@@ -1,0 +1,23 @@
+{
+  "name": "Paint swatch",
+  "id": "1405618609314720944",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figjam"
+  ],
+  "parameters": [
+    {
+      "name": "Swatch",
+      "key": "swatch"
+    }
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
