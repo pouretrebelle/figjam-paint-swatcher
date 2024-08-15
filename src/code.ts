@@ -29,7 +29,6 @@ figma.on('run', async ({ parameters }: RunEvent) => {
   const shape = figma.createShapeWithText();
   shape.shapeType = 'SQUARE'
   shape.fills = [{ type: 'SOLID', color: figma.util.rgb(swatch.hex) }];
-  shape.resize(600, 600)
   shape.x = figma.viewport.center.x - shape.width / 2
   shape.y = figma.viewport.center.y - shape.height / 2
 
@@ -39,7 +38,7 @@ figma.on('run', async ({ parameters }: RunEvent) => {
     type: 'URL',
     value: swatch.link,
   }
-  shape.text.fontSize = 24 // medium
+  shape.text.fontSize = 12
   shape.text.textDecoration = 'UNDERLINE'
 
   figma.currentPage.appendChild(shape);
