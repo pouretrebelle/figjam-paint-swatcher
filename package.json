@@ -1,6 +1,6 @@
 {
   "name": "figjam-paint-swatcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Paint swatches in FigJam",
   "main": "code.js",
   "scripts": {
