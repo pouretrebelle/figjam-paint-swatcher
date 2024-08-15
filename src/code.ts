@@ -1,14 +1,36 @@
-import { swatches } from './data/farrow-and-ball'
+import fBSwatches from './data/farrowAndBall'
+import lGSwatches from './data/littleGreene'
+import pPLSwatches from './data/paintAndPaperLibrary'
 
-const swatchData = swatches.map(({ name, link, hex }) => ({ name, data: { name, link, hex }, icon: `<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="${hex}"/></svg>` }))
+const swatchData = Object.entries({
+  'F&B': fBSwatches,
+  'LG': lGSwatches,
+  'P&PL': pPLSwatches,
+}).map(([brand, swatches]) => (
+  swatches.map(({ name, hex, link }) => ({
+    name: `${name} (${brand})`,
+    data: {
+      name,
+      hex,
+      link,
+      brand,
+    },
+    icon: `<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="${hex}"/></svg>`
+  })))
+).flat()
 
 figma.parameters.on(
   'input',
   ({ parameters, key, query, result }: ParameterInputEvent) => {
+    let names: string[] = []
     switch (key) {
       case 'swatch':
         result.setSuggestions(
-          swatchData.filter((s) => s.name.toLowerCase().includes(query.toLowerCase()))
+          swatchData.filter((s) => {
+            const isDuplicate = names.includes(s.name)
+            names.push(s.name)
+            return !isDuplicate && s.name.toLowerCase().includes(query.toLowerCase())
+          })
         )
         break
       default:
@@ -22,6 +44,7 @@ figma.on('run', async ({ parameters }: RunEvent) => {
 
   const swatch = parameters.swatch as {
     name: string
+    brand: string
     link: string
     hex: string
   }
@@ -33,7 +56,7 @@ figma.on('run', async ({ parameters }: RunEvent) => {
   shape.y = figma.viewport.center.y - shape.height / 2
 
   await figma.loadFontAsync({ family: "Inter", style: "Medium" })
-  shape.text.characters = swatch.name;
+  shape.text.characters = swatch.brand + '\n' + swatch.name;
   shape.text.hyperlink = {
     type: 'URL',
     value: swatch.link,

@@ -1,7 +1,7 @@
 {
   "name": "figjam-paint-swatcher",
   "version": "1.0.0",
-  "description": "Farrow and Ball paint swatches",
+  "description": "Paint swatches in FigJam",
   "main": "code.js",
   "scripts": {
     "build": "esbuild src/code.ts --bundle --outfile=code.js",

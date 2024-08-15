@@ -1,11 +1,4 @@
-export type Swatch = {
-  name: string;
-  number: string;
-  link: string;
-  hex: string;
-}
-
-export const swatches: Swatch[] =  [
+export default [
   {
     name: 'Lime White',
     number: '1',
@@ -846,4 +839,4 @@ export const swatches: Swatch[] =  [
     link: 'https://www.farrow-ball.com/paint-colours/California-Collection-Faded-Terracotta',
     hex: '#dfb797',
   },
-];
+] as const
