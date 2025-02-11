@@ -1,5 +1,9 @@
 # figjam-paint-swatcher
 
+## 1.2.0 / 2025-02-11
+
+- Add Edward Bulmer
+
 ## 1.1.0 / 2024-08-15
 
 - Remove custom sizing from shape
