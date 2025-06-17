@@ -54,6 +54,7 @@ figma.on('run', async ({ parameters }: RunEvent) => {
   const shape = figma.createShapeWithText();
   shape.shapeType = 'SQUARE'
   shape.fills = [{ type: 'SOLID', color: figma.util.rgb(swatch.hex) }];
+  shape.strokeWeight = 0
   shape.x = figma.viewport.center.x - shape.width / 2
   shape.y = figma.viewport.center.y - shape.height / 2
 
