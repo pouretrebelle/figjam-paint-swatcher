@@ -1,5 +1,77 @@
 export default [
   {
+    name: "Kakelugn",
+    number: "317",
+    link: "https://www.farrow-ball.com/paint/kakelugn",
+    hex: "#c5d1d8"
+  },
+  {
+    name: "Scallop",
+    number: "311",
+    link: "https://www.farrow-ball.com/paint/scallop",
+    hex: "#d9c8ba"
+  },
+  {
+    name: "Dibber",
+    number: "312",
+    link: "https://www.farrow-ball.com/paint/dibber",
+    hex: "#7e775b"
+  },
+  {
+    name: "Reduced Green",
+    number: "313",
+    link: "https://www.farrow-ball.com/paint/reduced-green",
+    hex: "#5c594b"
+  },
+  {
+    name: "Sizing",
+    number: "314",
+    link: "https://www.farrow-ball.com/paint/sizing",
+    hex: "#dfe6ea"
+  },
+  {
+    name: "Naperon",
+    number: "315",
+    link: "https://www.farrow-ball.com/paint/naperon",
+    hex: "#d7a287"
+  },
+  {
+    name: "Marmelo",
+    number: "316",
+    link: "https://www.farrow-ball.com/paint/marmelo",
+    hex: "#a36e4c"
+  },
+  {
+    name: "Douter",
+    number: "318",
+    link: "https://www.farrow-ball.com/paint/douter",
+    hex: "#636f68"
+  },
+  {
+    name: "Duster",
+    number: "319",
+    link: "https://www.farrow-ball.com/paint/duster",
+    hex: "#ba9c69"
+  },
+  {
+    name: "Sap Green",
+    number: "199",
+    link: "https://www.farrow-ball.com/paint/sap-green",
+    hex: "#747c51"
+  },
+  {
+    name: "Broccoli Brown",
+    number: "198",
+    link: "https://www.farrow-ball.com/paint/broccoli-brown",
+    hex: "#827462"
+  },
+  {
+    name: "Etruscan Red",
+    number: "56",
+    link: "https://www.farrow-ball.com/paint/etruscan-red",
+    hex: "#805348"
+  },
+  {
     name: 'Lime White',
     number: '1',
     link: 'https://www.farrow-ball.com/paint-colours/lime-white',
