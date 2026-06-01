@@ -569,4 +569,4 @@ export default [
     "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/cuisse-de-nymphe-emue/",
     "hex": "#DDC2B3"
   }
-]
+] as const

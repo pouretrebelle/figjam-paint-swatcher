@@ -2,12 +2,16 @@ import fBSwatches from './data/farrowAndBall'
 import lGSwatches from './data/littleGreene'
 import pPLSwatches from './data/paintAndPaperLibrary'
 import eBSwatches from './data/edwardBulmer'
+import lickSwatches from './data/lick'
+import coatSwatches from './data/coat'
 
 const swatchData = Object.entries({
   'F&B': fBSwatches,
   'LG': lGSwatches,
   'P&PL': pPLSwatches,
   'EB': eBSwatches,
+  'Lick': lickSwatches,
+  'Coat': coatSwatches,
 }).map(([brand, swatches]) => (
   swatches.map(({ name, hex, link }) => ({
     name: `${name} (${brand})`,
