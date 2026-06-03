@@ -1,0 +1,4749 @@
+{
+  "brands": [
+    {
+      "name": "Farrow & Ball",
+      "slug": "farrow-and-ball",
+      "shortname": "F&B",
+      "website": "https://www.farrow-ball.com",
+      "swatches": [
+        {
+          "name": "Kakelugn",
+          "hex": "#c5d1d8",
+          "link": "https://www.farrow-ball.com/paint/kakelugn",
+          "productCode": "317"
+        },
+        {
+          "name": "Scallop",
+          "hex": "#d9c8ba",
+          "link": "https://www.farrow-ball.com/paint/scallop",
+          "productCode": "311"
+        },
+        {
+          "name": "Dibber",
+          "hex": "#7e775b",
+          "link": "https://www.farrow-ball.com/paint/dibber",
+          "productCode": "312"
+        },
+        {
+          "name": "Reduced Green",
+          "hex": "#5c594b",
+          "link": "https://www.farrow-ball.com/paint/reduced-green",
+          "productCode": "313"
+        },
+        {
+          "name": "Sizing",
+          "hex": "#dfe6ea",
+          "link": "https://www.farrow-ball.com/paint/sizing",
+          "productCode": "314"
+        },
+        {
+          "name": "Naperon",
+          "hex": "#d7a287",
+          "link": "https://www.farrow-ball.com/paint/naperon",
+          "productCode": "315"
+        },
+        {
+          "name": "Marmelo",
+          "hex": "#a36e4c",
+          "link": "https://www.farrow-ball.com/paint/marmelo",
+          "productCode": "316"
+        },
+        {
+          "name": "Douter",
+          "hex": "#636f68",
+          "link": "https://www.farrow-ball.com/paint/douter",
+          "productCode": "318"
+        },
+        {
+          "name": "Duster",
+          "hex": "#ba9c69",
+          "link": "https://www.farrow-ball.com/paint/duster",
+          "productCode": "319"
+        },
+        {
+          "name": "Sap Green",
+          "hex": "#747c51",
+          "link": "https://www.farrow-ball.com/paint/sap-green",
+          "productCode": "199"
+        },
+        {
+          "name": "Broccoli Brown",
+          "hex": "#827462",
+          "link": "https://www.farrow-ball.com/paint/broccoli-brown",
+          "productCode": "198"
+        },
+        {
+          "name": "Etruscan Red",
+          "hex": "#805348",
+          "link": "https://www.farrow-ball.com/paint/etruscan-red",
+          "productCode": "56"
+        },
+        {
+          "name": "Lime White",
+          "hex": "#e8dec9",
+          "link": "https://www.farrow-ball.com/paint-colours/lime-white",
+          "productCode": "1"
+        },
+        {
+          "name": "Off-White",
+          "hex": "#e0d5be",
+          "link": "https://www.farrow-ball.com/paint-colours/off-white",
+          "productCode": "3"
+        },
+        {
+          "name": "Old White",
+          "hex": "#cfc3ad",
+          "link": "https://www.farrow-ball.com/paint-colours/old-white",
+          "productCode": "4"
+        },
+        {
+          "name": "Hardwick White",
+          "hex": "#b5afa0",
+          "link": "https://www.farrow-ball.com/paint-colours/hardwick-white",
+          "productCode": "5"
+        },
+        {
+          "name": "London Stone",
+          "hex": "#b6a38f",
+          "link": "https://www.farrow-ball.com/paint-colours/london-stone",
+          "productCode": "6"
+        },
+        {
+          "name": "String",
+          "hex": "#ddcdae",
+          "link": "https://www.farrow-ball.com/paint-colours/string",
+          "productCode": "8"
+        },
+        {
+          "name": "Bone",
+          "hex": "#cec3ad",
+          "link": "https://www.farrow-ball.com/paint-colours/bone",
+          "productCode": "15"
+        },
+        {
+          "name": "Cord",
+          "hex": "#d6c39e",
+          "link": "https://www.farrow-ball.com/paint-colours/cord",
+          "productCode": "16"
+        },
+        {
+          "name": "Light Gray",
+          "hex": "#b4a693",
+          "link": "https://www.farrow-ball.com/paint-colours/light-gray",
+          "productCode": "17"
+        },
+        {
+          "name": "French Gray",
+          "hex": "#b5b19a",
+          "link": "https://www.farrow-ball.com/paint-colours/french-gray",
+          "productCode": "18"
+        },
+        {
+          "name": "Lichen",
+          "hex": "#a1a189",
+          "link": "https://www.farrow-ball.com/paint-colours/lichen",
+          "productCode": "19"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#b8bcb5",
+          "link": "https://www.farrow-ball.com/paint-colours/light-blue",
+          "productCode": "22"
+        },
+        {
+          "name": "Pigeon",
+          "hex": "#a1a093",
+          "link": "https://www.farrow-ball.com/paint-colours/pigeon",
+          "productCode": "25"
+        },
+        {
+          "name": "Down Pipe",
+          "hex": "#626664",
+          "link": "https://www.farrow-ball.com/paint-colours/down-pipe",
+          "productCode": "26"
+        },
+        {
+          "name": "Parma Gray",
+          "hex": "#b2bfc5",
+          "link": "https://www.farrow-ball.com/paint-colours/parma-gray",
+          "productCode": "27"
+        },
+        {
+          "name": "Dead Salmon",
+          "hex": "#b49d8d",
+          "link": "https://www.farrow-ball.com/paint-colours/dead-salmon",
+          "productCode": "28"
+        },
+        {
+          "name": "Hague Blue",
+          "hex": "#3d4e57",
+          "link": "https://www.farrow-ball.com/paint-colours/hague-blue",
+          "productCode": "30"
+        },
+        {
+          "name": "Railings",
+          "hex": "#45484b",
+          "link": "https://www.farrow-ball.com/paint-colours/railings",
+          "productCode": "31"
+        },
+        {
+          "name": "Cooking Apple Green",
+          "hex": "#c4c6a5",
+          "link": "https://www.farrow-ball.com/paint-colours/cooking-apple-green",
+          "productCode": "32"
+        },
+        {
+          "name": "Calke Green",
+          "hex": "#768769",
+          "link": "https://www.farrow-ball.com/paint-colours/calke-green",
+          "productCode": "34"
+        },
+        {
+          "name": "Hay",
+          "hex": "#dfc795",
+          "link": "https://www.farrow-ball.com/paint-colours/hay",
+          "productCode": "37"
+        },
+        {
+          "name": "Mouse's Back",
+          "hex": "#998976",
+          "link": "https://www.farrow-ball.com/paint-colours/mouses-back",
+          "productCode": "40"
+        },
+        {
+          "name": "Picture Gallery Red",
+          "hex": "#a15a4d",
+          "link": "https://www.farrow-ball.com/paint-colours/picture-gallery-red",
+          "productCode": "42"
+        },
+        {
+          "name": "Eating Room Red",
+          "hex": "#8f4e4d",
+          "link": "https://www.farrow-ball.com/paint-colours/eating-room-red",
+          "productCode": "43"
+        },
+        {
+          "name": "Green Smoke",
+          "hex": "#737c70",
+          "link": "https://www.farrow-ball.com/paint-colours/green-smoke",
+          "productCode": "47"
+        },
+        {
+          "name": "Sudbury Yellow",
+          "hex": "#dcb771",
+          "link": "https://www.farrow-ball.com/paint-colours/sudbury-yellow",
+          "productCode": "51"
+        },
+        {
+          "name": "Off-Black",
+          "hex": "#444546",
+          "link": "https://www.farrow-ball.com/paint-colours/off-black",
+          "productCode": "57"
+        },
+        {
+          "name": "New White",
+          "hex": "#f5e8d0",
+          "link": "https://www.farrow-ball.com/paint-colours/new-white",
+          "productCode": "59"
+        },
+        {
+          "name": "Red Earth",
+          "hex": "#c57b67",
+          "link": "https://www.farrow-ball.com/paint-colours/red-earth",
+          "productCode": "64"
+        },
+        {
+          "name": "India Yellow",
+          "hex": "#cb9e59",
+          "link": "https://www.farrow-ball.com/paint-colours/india-yellow",
+          "productCode": "66"
+        },
+        {
+          "name": "Farrow's Cream",
+          "hex": "#efdbb3",
+          "link": "https://www.farrow-ball.com/paint-colours/farrows-cream",
+          "productCode": "67"
+        },
+        {
+          "name": "Dorset Cream",
+          "hex": "#efd5a1",
+          "link": "https://www.farrow-ball.com/paint-colours/dorset-cream",
+          "productCode": "68"
+        },
+        {
+          "name": "Citron",
+          "hex": "#f5d27b",
+          "link": "https://www.farrow-ball.com/paint-colours/citron",
+          "productCode": "74"
+        },
+        {
+          "name": "Ball Green",
+          "hex": "#bcb596",
+          "link": "https://www.farrow-ball.com/paint-colours/ball-green",
+          "productCode": "75"
+        },
+        {
+          "name": "Card Room Green",
+          "hex": "#899081",
+          "link": "https://www.farrow-ball.com/paint-colours/card-room-green",
+          "productCode": "79"
+        },
+        {
+          "name": "Breakfast Room Green",
+          "hex": "#94a68a",
+          "link": "https://www.farrow-ball.com/paint-colours/breakfast-room-green",
+          "productCode": "81"
+        },
+        {
+          "name": "Dix Blue",
+          "hex": "#99b0ab",
+          "link": "https://www.farrow-ball.com/paint-colours/dix-blue",
+          "productCode": "82"
+        },
+        {
+          "name": "Green Blue",
+          "hex": "#adbdb2",
+          "link": "https://www.farrow-ball.com/paint-colours/green-blue",
+          "productCode": "84"
+        },
+        {
+          "name": "Oval Room Blue",
+          "hex": "#8b9d9b",
+          "link": "https://www.farrow-ball.com/paint-colours/oval-room-blue",
+          "productCode": "85"
+        },
+        {
+          "name": "Stone Blue",
+          "hex": "#7997a1",
+          "link": "https://www.farrow-ball.com/paint-colours/stone-blue",
+          "productCode": "86"
+        },
+        {
+          "name": "Lamp Room Gray",
+          "hex": "#b2b1a9",
+          "link": "https://www.farrow-ball.com/paint-colours/lamp-room-gray",
+          "productCode": "88"
+        },
+        {
+          "name": "Lulworth Blue",
+          "hex": "#a1b8ca",
+          "link": "https://www.farrow-ball.com/paint-colours/lulworth-blue",
+          "productCode": "89"
+        },
+        {
+          "name": "Blue Gray",
+          "hex": "#b4b4a3",
+          "link": "https://www.farrow-ball.com/paint-colours/blue-gray",
+          "productCode": "91"
+        },
+        {
+          "name": "Studio Green",
+          "hex": "#464c49",
+          "link": "https://www.farrow-ball.com/paint-colours/studio-green",
+          "productCode": "93"
+        },
+        {
+          "name": "Shaded White",
+          "hex": "#d9d2c1",
+          "link": "https://www.farrow-ball.com/paint-colours/shaded-white",
+          "productCode": "201"
+        },
+        {
+          "name": "Pink Ground",
+          "hex": "#efd6c7",
+          "link": "https://www.farrow-ball.com/paint-colours/pink-ground",
+          "productCode": "202"
+        },
+        {
+          "name": "Tallow",
+          "hex": "#fdedd7",
+          "link": "https://www.farrow-ball.com/paint-colours/tallow",
+          "productCode": "203"
+        },
+        {
+          "name": "Pale Powder",
+          "hex": "#d9dcd2",
+          "link": "https://www.farrow-ball.com/paint-colours/pale-powder",
+          "productCode": "204"
+        },
+        {
+          "name": "Skylight",
+          "hex": "#ccd0cd",
+          "link": "https://www.farrow-ball.com/paint-colours/skylight",
+          "productCode": "205"
+        },
+        {
+          "name": "Green Ground",
+          "hex": "#dbdab6",
+          "link": "https://www.farrow-ball.com/paint-colours/green-ground",
+          "productCode": "206"
+        },
+        {
+          "name": "Blue Ground",
+          "hex": "#a1c5c8",
+          "link": "https://www.farrow-ball.com/paint-colours/blue-ground",
+          "productCode": "210"
+        },
+        {
+          "name": "Stony Ground",
+          "hex": "#cec1ad",
+          "link": "https://www.farrow-ball.com/paint-colours/stony-ground",
+          "productCode": "211"
+        },
+        {
+          "name": "Arsenic",
+          "hex": "#84b59c",
+          "link": "https://www.farrow-ball.com/paint-colours/arsenic",
+          "productCode": "214"
+        },
+        {
+          "name": "Rectory Red",
+          "hex": "#a53c49",
+          "link": "https://www.farrow-ball.com/paint-colours/rectory-red",
+          "productCode": "217"
+        },
+        {
+          "name": "Yellow Ground",
+          "hex": "#f2cf86",
+          "link": "https://www.farrow-ball.com/paint-colours/yellow-ground",
+          "productCode": "218"
+        },
+        {
+          "name": "Brinjal",
+          "hex": "#5d3b42",
+          "link": "https://www.farrow-ball.com/paint-colours/brinjal",
+          "productCode": "222"
+        },
+        {
+          "name": "Babouche",
+          "hex": "#ecc363",
+          "link": "https://www.farrow-ball.com/paint-colours/babouche",
+          "productCode": "223"
+        },
+        {
+          "name": "Joa's White",
+          "hex": "#decfb9",
+          "link": "https://www.farrow-ball.com/paint-colours/joas-white",
+          "productCode": "226"
+        },
+        {
+          "name": "Cornforth White",
+          "hex": "#d1cbc3",
+          "link": "https://www.farrow-ball.com/paint-colours/cornforth-white",
+          "productCode": "228"
+        },
+        {
+          "name": "Elephant's Breath",
+          "hex": "#ccbfb3",
+          "link": "https://www.farrow-ball.com/paint-colours/elephants-breath",
+          "productCode": "229"
+        },
+        {
+          "name": "Calamine",
+          "hex": "#e6d1cb",
+          "link": "https://www.farrow-ball.com/paint-colours/calamine",
+          "productCode": "230"
+        },
+        {
+          "name": "Setting Plaster",
+          "hex": "#dfc2af",
+          "link": "https://www.farrow-ball.com/paint-colours/setting-plaster",
+          "productCode": "231"
+        },
+        {
+          "name": "Dayroom Yellow",
+          "hex": "#f7e29d",
+          "link": "https://www.farrow-ball.com/paint-colours/dayroom-yellow",
+          "productCode": "233"
+        },
+        {
+          "name": "Vert De Terre",
+          "hex": "#babba5",
+          "link": "https://www.farrow-ball.com/paint-colours/vert-de-terre",
+          "productCode": "234"
+        },
+        {
+          "name": "Borrowed Light",
+          "hex": "#d5dbdb",
+          "link": "https://www.farrow-ball.com/paint-colours/borrowed-light",
+          "productCode": "235"
+        },
+        {
+          "name": "Teresa's Green",
+          "hex": "#c0cdc2",
+          "link": "https://www.farrow-ball.com/paint-colours/teresas-green",
+          "productCode": "236"
+        },
+        {
+          "name": "Cook's Blue",
+          "hex": "#6a90b4",
+          "link": "https://www.farrow-ball.com/paint-colours/cooks-blue",
+          "productCode": "237"
+        },
+        {
+          "name": "Wimborne White",
+          "hex": "#f7f3e8",
+          "link": "https://www.farrow-ball.com/paint-colours/wimborne-white",
+          "productCode": "239"
+        },
+        {
+          "name": "Skimming Stone",
+          "hex": "#dfd6cb",
+          "link": "https://www.farrow-ball.com/paint-colours/skimming-stone",
+          "productCode": "241"
+        },
+        {
+          "name": "Pavilion Gray",
+          "hex": "#c8c3bc",
+          "link": "https://www.farrow-ball.com/paint-colours/pavilion-gray",
+          "productCode": "242"
+        },
+        {
+          "name": "Charleston Gray",
+          "hex": "#9f9389",
+          "link": "https://www.farrow-ball.com/paint-colours/charleston-gray",
+          "productCode": "243"
+        },
+        {
+          "name": "London Clay",
+          "hex": "#786963",
+          "link": "https://www.farrow-ball.com/paint-colours/london-clay",
+          "productCode": "244"
+        },
+        {
+          "name": "Middleton Pink",
+          "hex": "#fde7e5",
+          "link": "https://www.farrow-ball.com/paint-colours/middleton-pink",
+          "productCode": "245"
+        },
+        {
+          "name": "Cinder Rose",
+          "hex": "#c7a4a6",
+          "link": "https://www.farrow-ball.com/paint-colours/cinder-rose",
+          "productCode": "246"
+        },
+        {
+          "name": "Incarnadine",
+          "hex": "#a04344",
+          "link": "https://www.farrow-ball.com/paint-colours/incarnadine",
+          "productCode": "248"
+        },
+        {
+          "name": "Pelt",
+          "hex": "#50414c",
+          "link": "https://www.farrow-ball.com/paint-colours/pelt",
+          "productCode": "254"
+        },
+        {
+          "name": "Tanner's Brown",
+          "hex": "#4d4746",
+          "link": "https://www.farrow-ball.com/paint-colours/tanners-brown",
+          "productCode": "255"
+        },
+        {
+          "name": "Pitch Black",
+          "hex": "#3b3938",
+          "link": "https://www.farrow-ball.com/paint-colours/pitch-black",
+          "productCode": "256"
+        },
+        {
+          "name": "Oxford Stone",
+          "hex": "#d6c2ac",
+          "link": "https://www.farrow-ball.com/paint-colours/oxford-stone",
+          "productCode": "264"
+        },
+        {
+          "name": "Manor House Gray",
+          "hex": "#a2a29d",
+          "link": "https://www.farrow-ball.com/paint-colours/manor-house-gray",
+          "productCode": "265"
+        },
+        {
+          "name": "Mizzle",
+          "hex": "#c0c2b3",
+          "link": "https://www.farrow-ball.com/paint-colours/mizzle",
+          "productCode": "266"
+        },
+        {
+          "name": "Dove Tale",
+          "hex": "#bbb1ab",
+          "link": "https://www.farrow-ball.com/paint-colours/dove-tale",
+          "productCode": "267"
+        },
+        {
+          "name": "Charlotte's Locks",
+          "hex": "#d65f3d",
+          "link": "https://www.farrow-ball.com/paint-colours/charlottes-locks",
+          "productCode": "268"
+        },
+        {
+          "name": "Cabbage White",
+          "hex": "#e8eeea",
+          "link": "https://www.farrow-ball.com/paint-colours/cabbage-white",
+          "productCode": "269"
+        },
+        {
+          "name": "Calluna",
+          "hex": "#ccc8ce",
+          "link": "https://www.farrow-ball.com/paint-colours/calluna",
+          "productCode": "270"
+        },
+        {
+          "name": "Brassica",
+          "hex": "#8d8089",
+          "link": "https://www.farrow-ball.com/paint-colours/brassica",
+          "productCode": "271"
+        },
+        {
+          "name": "Plummett",
+          "hex": "#8d8d8b",
+          "link": "https://www.farrow-ball.com/paint-colours/plummett",
+          "productCode": "272"
+        },
+        {
+          "name": "Wevet",
+          "hex": "#eee9e7",
+          "link": "https://www.farrow-ball.com/paint-colours/wevet",
+          "productCode": "273"
+        },
+        {
+          "name": "Ammonite",
+          "hex": "#ddd8cf",
+          "link": "https://www.farrow-ball.com/paint-colours/ammonite",
+          "productCode": "274"
+        },
+        {
+          "name": "Purbeck Stone",
+          "hex": "#c4beb4",
+          "link": "https://www.farrow-ball.com/paint-colours/purbeck-stone",
+          "productCode": "275"
+        },
+        {
+          "name": "Mole's Breath",
+          "hex": "#8b857f",
+          "link": "https://www.farrow-ball.com/paint-colours/moles-breath",
+          "productCode": "276"
+        },
+        {
+          "name": "Dimpse",
+          "hex": "#d9d8d3",
+          "link": "https://www.farrow-ball.com/paint-colours/dimpse",
+          "productCode": "277"
+        },
+        {
+          "name": "Nancy's Blushes",
+          "hex": "#ecb7b8",
+          "link": "https://www.farrow-ball.com/paint-colours/nancys-blushes",
+          "productCode": "278"
+        },
+        {
+          "name": "Stiffkey Blue",
+          "hex": "#4d5b6a",
+          "link": "https://www.farrow-ball.com/paint-colours/stiffkey-blue",
+          "productCode": "281"
+        },
+        {
+          "name": "Shadow White",
+          "hex": "#ded8c6",
+          "link": "https://www.farrow-ball.com/paint-colours/shadow-white",
+          "productCode": "282"
+        },
+        {
+          "name": "Drop Cloth",
+          "hex": "#c9beab",
+          "link": "https://www.farrow-ball.com/paint-colours/drop-cloth",
+          "productCode": "283"
+        },
+        {
+          "name": "Worsted",
+          "hex": "#a59f97",
+          "link": "https://www.farrow-ball.com/paint-colours/worsted",
+          "productCode": "284"
+        },
+        {
+          "name": "Cromarty",
+          "hex": "#cfcec0",
+          "link": "https://www.farrow-ball.com/paint-colours/cromarty",
+          "productCode": "285"
+        },
+        {
+          "name": "Peignoir",
+          "hex": "#d6c8c3",
+          "link": "https://www.farrow-ball.com/paint-colours/peignoir",
+          "productCode": "286"
+        },
+        {
+          "name": "Yeabridge Green",
+          "hex": "#919f70",
+          "link": "https://www.farrow-ball.com/paint-colours/yeabridge-green",
+          "productCode": "287"
+        },
+        {
+          "name": "Vardo",
+          "hex": "#427e83",
+          "link": "https://www.farrow-ball.com/paint-colours/vardo",
+          "productCode": "288"
+        },
+        {
+          "name": "Inchyra Blue",
+          "hex": "#586768",
+          "link": "https://www.farrow-ball.com/paint-colours/inchyra-blue",
+          "productCode": "289"
+        },
+        {
+          "name": "School House White",
+          "hex": "#e6dfd1",
+          "link": "https://www.farrow-ball.com/paint-colours/school-house-white",
+          "productCode": "291"
+        },
+        {
+          "name": "Treron",
+          "hex": "#8b8a77",
+          "link": "https://www.farrow-ball.com/paint-colours/treron",
+          "productCode": "292"
+        },
+        {
+          "name": "Jitney",
+          "hex": "#c4b2a2",
+          "link": "https://www.farrow-ball.com/paint-colours/jitney",
+          "productCode": "293"
+        },
+        {
+          "name": "Paean Black",
+          "hex": "#494248",
+          "link": "https://www.farrow-ball.com/paint-colours/paean-black",
+          "productCode": "294"
+        },
+        {
+          "name": "Sulking Room Pink",
+          "hex": "#a0837f",
+          "link": "https://www.farrow-ball.com/paint-colours/sulking-room-pink",
+          "productCode": "295"
+        },
+        {
+          "name": "Rangwali",
+          "hex": "#bf7a8f",
+          "link": "https://www.farrow-ball.com/paint-colours/rangwali",
+          "productCode": "296"
+        },
+        {
+          "name": "Preference Red",
+          "hex": "#6d4247",
+          "link": "https://www.farrow-ball.com/paint-colours/preference-red",
+          "productCode": "297"
+        },
+        {
+          "name": "Bancha",
+          "hex": "#686a47",
+          "link": "https://www.farrow-ball.com/paint-colours/bancha",
+          "productCode": "298"
+        },
+        {
+          "name": "De Nimes",
+          "hex": "#6a7c80",
+          "link": "https://www.farrow-ball.com/paint-colours/de-nimes",
+          "productCode": "299"
+        },
+        {
+          "name": "Stirabout",
+          "hex": "#d9cfc2",
+          "link": "https://www.farrow-ball.com/paint-colours/Stirabout",
+          "productCode": "300"
+        },
+        {
+          "name": "Eddy",
+          "hex": "#caccba",
+          "link": "https://www.farrow-ball.com/paint-colours/Eddy",
+          "productCode": "301"
+        },
+        {
+          "name": "Tailor Tack",
+          "hex": "#f4e7dd",
+          "link": "https://www.farrow-ball.com/paint-colours/Tailor-Tack",
+          "productCode": "302"
+        },
+        {
+          "name": "Templeton Pink",
+          "hex": "#cdb19d",
+          "link": "https://www.farrow-ball.com/paint-colours/Templeton-Pink",
+          "productCode": "303"
+        },
+        {
+          "name": "Bamboozle",
+          "hex": "#a75346",
+          "link": "https://www.farrow-ball.com/paint-colours/Bamboozle",
+          "productCode": "304"
+        },
+        {
+          "name": "Hopper Head",
+          "hex": "#505456",
+          "link": "https://www.farrow-ball.com/paint-colours/Hopper-Head",
+          "productCode": "305"
+        },
+        {
+          "name": "Selvedge",
+          "hex": "#7c8e96",
+          "link": "https://www.farrow-ball.com/paint-colours/Selvedge",
+          "productCode": "306"
+        },
+        {
+          "name": "Kittiwake",
+          "hex": "#98acba",
+          "link": "https://www.farrow-ball.com/paint-colours/Kittiwake",
+          "productCode": "307"
+        },
+        {
+          "name": "Wine Dark",
+          "hex": "#5c6576",
+          "link": "https://www.farrow-ball.com/paint-colours/Wine-Dark",
+          "productCode": "308"
+        },
+        {
+          "name": "Whirlybird",
+          "hex": "#adbda3",
+          "link": "https://www.farrow-ball.com/paint-colours/Whirlybird",
+          "productCode": "309"
+        },
+        {
+          "name": "Beverly",
+          "hex": "#4c5c4a",
+          "link": "https://www.farrow-ball.com/paint-colours/Beverly",
+          "productCode": "310"
+        },
+        {
+          "name": "Strong White",
+          "hex": "#e5e0db",
+          "link": "https://www.farrow-ball.com/paint-colours/strong-white",
+          "productCode": "2001"
+        },
+        {
+          "name": "White Tie",
+          "hex": "#f5ecd9",
+          "link": "https://www.farrow-ball.com/paint-colours/white-tie",
+          "productCode": "2002"
+        },
+        {
+          "name": "Pointing",
+          "hex": "#f7f1e3",
+          "link": "https://www.farrow-ball.com/paint-colours/pointing",
+          "productCode": "2003"
+        },
+        {
+          "name": "Slipper Satin",
+          "hex": "#e8e0d1",
+          "link": "https://www.farrow-ball.com/paint-colours/slipper-satin",
+          "productCode": "2004"
+        },
+        {
+          "name": "All White",
+          "hex": "#fbf8f4",
+          "link": "https://www.farrow-ball.com/paint-colours/all-white",
+          "productCode": "2005"
+        },
+        {
+          "name": "Great White",
+          "hex": "#e7dedb",
+          "link": "https://www.farrow-ball.com/paint-colours/great-white",
+          "productCode": "2006"
+        },
+        {
+          "name": "Dimity",
+          "hex": "#eee3d3",
+          "link": "https://www.farrow-ball.com/paint-colours/dimity",
+          "productCode": "2008"
+        },
+        {
+          "name": "James White",
+          "hex": "#ede9d8",
+          "link": "https://www.farrow-ball.com/paint-colours/james-white",
+          "productCode": "2010"
+        },
+        {
+          "name": "Blackened",
+          "hex": "#dddbd9",
+          "link": "https://www.farrow-ball.com/paint-colours/blackened",
+          "productCode": "2011"
+        },
+        {
+          "name": "Matchstick",
+          "hex": "#e4d5bc",
+          "link": "https://www.farrow-ball.com/paint-colours/matchstick",
+          "productCode": "2013"
+        },
+        {
+          "name": "California Collection: Tar",
+          "hex": "#535353",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Tar",
+          "productCode": "CC1"
+        },
+        {
+          "name": "California Collection: Sand",
+          "hex": "#e2d7c1",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Sand",
+          "productCode": "CC2"
+        },
+        {
+          "name": "California Collection: Citrona",
+          "hex": "#dbcc7c",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Citrona",
+          "productCode": "CC3"
+        },
+        {
+          "name": "California Collection: Palm",
+          "hex": "#c3cfbb",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Palm",
+          "productCode": "CC4"
+        },
+        {
+          "name": "California Collection: Salt",
+          "hex": "#e6e4e1",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Salt",
+          "productCode": "CC5"
+        },
+        {
+          "name": "California Collection: Hazy",
+          "hex": "#afc2c9",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Hazy",
+          "productCode": "CC6"
+        },
+        {
+          "name": "California Collection: Stoke",
+          "hex": "#93908a",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Stoke",
+          "productCode": "CC7"
+        },
+        {
+          "name": "California Collection: Faded Terracotta",
+          "hex": "#dfb797",
+          "link": "https://www.farrow-ball.com/paint-colours/California-Collection-Faded-Terracotta",
+          "productCode": "CC8"
+        }
+      ]
+    },
+    {
+      "name": "Little Greene",
+      "slug": "little-greene",
+      "shortname": "LG",
+      "website": "https://www.littlegreene.com",
+      "swatches": [
+        {
+          "name": "Loft White",
+          "hex": "#fdfdfa",
+          "link": "https://www.littlegreene.com/loft-white"
+        },
+        {
+          "name": "Shirting",
+          "hex": "#f8f8f8",
+          "link": "https://www.littlegreene.com/shirting"
+        },
+        {
+          "name": "Wood Ash",
+          "hex": "#eeeae1",
+          "link": "https://www.littlegreene.com/wood-ash"
+        },
+        {
+          "name": "French Grey",
+          "hex": "#c8c5b7",
+          "link": "https://www.littlegreene.com/french-grey"
+        },
+        {
+          "name": "Serpentine",
+          "hex": "#989180",
+          "link": "https://www.littlegreene.com/serpentine"
+        },
+        {
+          "name": "Lead Colour",
+          "hex": "#969183",
+          "link": "https://www.littlegreene.com/lead-colour"
+        },
+        {
+          "name": "Mid Lead Colour",
+          "hex": "#8c8c8c",
+          "link": "https://www.littlegreene.com/mid-lead-colour"
+        },
+        {
+          "name": "Scree",
+          "hex": "#595a57",
+          "link": "https://www.littlegreene.com/scree"
+        },
+        {
+          "name": "Flint",
+          "hex": "#f9f7f2",
+          "link": "https://www.littlegreene.com/flint"
+        },
+        {
+          "name": "Slaked Lime",
+          "hex": "#f0f1ec",
+          "link": "https://www.littlegreene.com/slaked-lime"
+        },
+        {
+          "name": "Linen Wash",
+          "hex": "#f4f3e7",
+          "link": "https://www.littlegreene.com/linen-wash"
+        },
+        {
+          "name": "Joanna",
+          "hex": "#ebeae0",
+          "link": "https://www.littlegreene.com/joanna"
+        },
+        {
+          "name": "Portland Stone",
+          "hex": "#c9c5a8",
+          "link": "https://www.littlegreene.com/portland-stone"
+        },
+        {
+          "name": "Rolling Fog",
+          "hex": "#c5bba8",
+          "link": "https://www.littlegreene.com/rolling-fog"
+        },
+        {
+          "name": "Silt",
+          "hex": "#857e6c",
+          "link": "https://www.littlegreene.com/silt"
+        },
+        {
+          "name": "Light Bronze Green",
+          "hex": "#5a4620",
+          "link": "https://www.littlegreene.com/light-bronze-green"
+        },
+        {
+          "name": "First Light",
+          "hex": "#fcf6d8",
+          "link": "https://www.littlegreene.com/first-light"
+        },
+        {
+          "name": "White Lead",
+          "hex": "#f9f8e3",
+          "link": "https://www.littlegreene.com/white-lead"
+        },
+        {
+          "name": "Stock",
+          "hex": "#f8f4e3",
+          "link": "https://www.littlegreene.com/stock"
+        },
+        {
+          "name": "Silent White - Mid",
+          "hex": "#F2ECD7",
+          "link": "https://www.littlegreene.com/silent-white-mid"
+        },
+        {
+          "name": "Travertine",
+          "hex": "#dfceb2",
+          "link": "https://www.littlegreene.com/travertine"
+        },
+        {
+          "name": "Bath Stone",
+          "hex": "#cdb684",
+          "link": "https://www.littlegreene.com/bath-stone"
+        },
+        {
+          "name": "Bassoon",
+          "hex": "#C09F66",
+          "link": "https://www.littlegreene.com/bassoon"
+        },
+        {
+          "name": "Middle Buff",
+          "hex": "#af732b",
+          "link": "https://www.littlegreene.com/middle-buff"
+        },
+        {
+          "name": "Whitening",
+          "hex": "#f4f2e5",
+          "link": "https://www.littlegreene.com/whitening"
+        },
+        {
+          "name": "China Clay",
+          "hex": "#f7ede0",
+          "link": "https://www.littlegreene.com/china-clay"
+        },
+        {
+          "name": "Hollyhock",
+          "hex": "#f3eee8",
+          "link": "https://www.littlegreene.com/hollyhock"
+        },
+        {
+          "name": "Hammock",
+          "hex": "#ddc8ac",
+          "link": "https://www.littlegreene.com/hammock"
+        },
+        {
+          "name": "Clay",
+          "hex": "#d4c59c",
+          "link": "https://www.littlegreene.com/clay"
+        },
+        {
+          "name": "Mushroom",
+          "hex": "#d3c3ae",
+          "link": "https://www.littlegreene.com/mushroom"
+        },
+        {
+          "name": "Roman Plaster",
+          "hex": "#bfb08f",
+          "link": "https://www.littlegreene.com/roman-plaster"
+        },
+        {
+          "name": "Nether Red",
+          "hex": "#92756f",
+          "link": "https://www.littlegreene.com/nether-red"
+        },
+        {
+          "name": "Julie's Dream",
+          "hex": "#f1e7dd",
+          "link": "https://www.littlegreene.com/julie-s-dream"
+        },
+        {
+          "name": "Stone-Pale-Warm",
+          "hex": "#f3d5af",
+          "link": "https://www.littlegreene.com/stone-pale-warm"
+        },
+        {
+          "name": "Beauvais Lilac",
+          "hex": "#e9dac3",
+          "link": "https://www.littlegreene.com/beauvais-lilac"
+        },
+        {
+          "name": "Masquerade",
+          "hex": "#D2B6A0",
+          "link": "https://www.littlegreene.com/masquerade"
+        },
+        {
+          "name": "Light Peachblossom",
+          "hex": "#c6b2a7",
+          "link": "https://www.littlegreene.com/light-peachblossom"
+        },
+        {
+          "name": "Blush",
+          "hex": "#AE8A82",
+          "link": "https://www.littlegreene.com/blush"
+        },
+        {
+          "name": "Ashes of Roses",
+          "hex": "#945e5c",
+          "link": "https://www.littlegreene.com/ashes-of-roses"
+        },
+        {
+          "name": "Adventurer",
+          "hex": "#5d3a40",
+          "link": "https://www.littlegreene.com/adventurer"
+        },
+        {
+          "name": "Gauze",
+          "hex": "#eef0f1",
+          "link": "https://www.littlegreene.com/gauze"
+        },
+        {
+          "name": "Pearl Colour",
+          "hex": "#d4dacc",
+          "link": "https://www.littlegreene.com/pearl-colour"
+        },
+        {
+          "name": "Salix",
+          "hex": "#c2d2c0",
+          "link": "https://www.littlegreene.com/salix"
+        },
+        {
+          "name": "Bone China Blue",
+          "hex": "#A8B9BD",
+          "link": "https://www.littlegreene.com/bone-china-blue"
+        },
+        {
+          "name": "Celestial Blue",
+          "hex": "#a4b4af",
+          "link": "https://www.littlegreene.com/celestial-blue"
+        },
+        {
+          "name": "Etruria",
+          "hex": "#627D85",
+          "link": "https://www.littlegreene.com/etruria"
+        },
+        {
+          "name": "Juniper Ash",
+          "hex": "#525969",
+          "link": "https://www.littlegreene.com/juniper-ash"
+        },
+        {
+          "name": "Hicks' Blue",
+          "hex": "#415968",
+          "link": "https://www.littlegreene.com/hicks-blue"
+        },
+        {
+          "name": "Acorn",
+          "hex": "#e0e3c4",
+          "link": "https://www.littlegreene.com/acorn"
+        },
+        {
+          "name": "Green Stone - Light",
+          "hex": "#e1dbc6",
+          "link": "https://www.littlegreene.com/green-stone-light"
+        },
+        {
+          "name": "Tracery II",
+          "hex": "#b7b79f",
+          "link": "https://www.littlegreene.com/tracery-ii"
+        },
+        {
+          "name": "Normandy Grey",
+          "hex": "#a0a07d",
+          "link": "https://www.littlegreene.com/normandy-grey"
+        },
+        {
+          "name": "Boringdon Green",
+          "hex": "#A8AF96",
+          "link": "https://www.littlegreene.com/boringdon-green"
+        },
+        {
+          "name": "Windmill Lane",
+          "hex": "#8E9B8A",
+          "link": "https://www.littlegreene.com/windmill-lane"
+        },
+        {
+          "name": "Sage Green",
+          "hex": "#77815c",
+          "link": "https://www.littlegreene.com/sage-green"
+        },
+        {
+          "name": "Livid",
+          "hex": "#6d7d78",
+          "link": "https://www.littlegreene.com/livid"
+        },
+        {
+          "name": "Mirror",
+          "hex": "#e5e4d0",
+          "link": "https://www.littlegreene.com/mirror"
+        },
+        {
+          "name": "Hidey Hole",
+          "hex": "#DEEBDC",
+          "link": "https://www.littlegreene.com/hidey-hole"
+        },
+        {
+          "name": "Aquamarine - Mid",
+          "hex": "#C6D6CA",
+          "link": "https://www.littlegreene.com/aquamarine-mid"
+        },
+        {
+          "name": "Aquamarine",
+          "hex": "#a8bba0",
+          "link": "https://www.littlegreene.com/aquamarine"
+        },
+        {
+          "name": "Aquamarine - Deep",
+          "hex": "#85a486",
+          "link": "https://www.littlegreene.com/aquamarine-deep"
+        },
+        {
+          "name": "Tea with Florence",
+          "hex": "#5C7C7E",
+          "link": "https://www.littlegreene.com/tea-with-florence"
+        },
+        {
+          "name": "Goblin",
+          "hex": "#446562",
+          "link": "https://www.littlegreene.com/goblin"
+        },
+        {
+          "name": "Harley Green",
+          "hex": "#425958",
+          "link": "https://www.littlegreene.com/harley-green"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "#d8bb5d",
+          "link": "https://www.littlegreene.com/light-gold"
+        },
+        {
+          "name": "Sunlight",
+          "hex": "#dfc774",
+          "link": "https://www.littlegreene.com/sunlight"
+        },
+        {
+          "name": "Apple",
+          "hex": "#cbc687",
+          "link": "https://www.littlegreene.com/apple"
+        },
+        {
+          "name": "Kitchen Green",
+          "hex": "#c9cb9a",
+          "link": "https://www.littlegreene.com/kitchen-green"
+        },
+        {
+          "name": "Pea Green",
+          "hex": "#a9c093",
+          "link": "https://www.littlegreene.com/pea-green"
+        },
+        {
+          "name": "Garden",
+          "hex": "#739153",
+          "link": "https://www.littlegreene.com/garden"
+        },
+        {
+          "name": "Hopper",
+          "hex": "#5A6E48",
+          "link": "https://www.littlegreene.com/hopper"
+        },
+        {
+          "name": "Puck",
+          "hex": "#33523A",
+          "link": "https://www.littlegreene.com/puck"
+        },
+        {
+          "name": "Yellow-Pink",
+          "hex": "#d0a946",
+          "link": "https://www.littlegreene.com/yellow-pink"
+        },
+        {
+          "name": "Giallo",
+          "hex": "#eed266",
+          "link": "https://www.littlegreene.com/giallo"
+        },
+        {
+          "name": "Indian Yellow",
+          "hex": "#ede068",
+          "link": "https://www.littlegreene.com/indian-yellow"
+        },
+        {
+          "name": "Pale Lime",
+          "hex": "#c5c951",
+          "link": "https://www.littlegreene.com/pale-lime"
+        },
+        {
+          "name": "Boxington",
+          "hex": "#a8af61",
+          "link": "https://www.littlegreene.com/boxington"
+        },
+        {
+          "name": "Citrine",
+          "hex": "#777f2d",
+          "link": "https://www.littlegreene.com/citrine"
+        },
+        {
+          "name": "Jewel Beetle",
+          "hex": "#566038",
+          "link": "https://www.littlegreene.com/jewel-beetle"
+        },
+        {
+          "name": "Olive Colour",
+          "hex": "#42431f",
+          "link": "https://www.littlegreene.com/olive-colour"
+        },
+        {
+          "name": "Mister David",
+          "hex": "#e1c022",
+          "link": "https://www.littlegreene.com/mister-david"
+        },
+        {
+          "name": "Carys",
+          "hex": "#ffe57b",
+          "link": "https://www.littlegreene.com/carys"
+        },
+        {
+          "name": "Trumpet",
+          "hex": "#f1f15c",
+          "link": "https://www.littlegreene.com/trumpet"
+        },
+        {
+          "name": "Phthalo Green",
+          "hex": "#74c84c",
+          "link": "https://www.littlegreene.com/phthalo-green"
+        },
+        {
+          "name": "Green Verditer",
+          "hex": "#6ac59c",
+          "link": "https://www.littlegreene.com/green-verditer"
+        },
+        {
+          "name": "Canton",
+          "hex": "#236d6f",
+          "link": "https://www.littlegreene.com/canton"
+        },
+        {
+          "name": "Marine Blue",
+          "hex": "#03414e",
+          "link": "https://www.littlegreene.com/marine-blue"
+        },
+        {
+          "name": "Mid Azure Green",
+          "hex": "#063025",
+          "link": "https://www.littlegreene.com/mid-azure-green"
+        },
+        {
+          "name": "Delicate Blue",
+          "hex": "#dcedf1",
+          "link": "https://www.littlegreene.com/delicate-blue"
+        },
+        {
+          "name": "Brighton",
+          "hex": "#acc6cd",
+          "link": "https://www.littlegreene.com/brighton"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#add4de",
+          "link": "https://www.littlegreene.com/sky-blue"
+        },
+        {
+          "name": "Tivoli",
+          "hex": "#5c8ea9",
+          "link": "https://www.littlegreene.com/tivoli"
+        },
+        {
+          "name": "Blue Verditer",
+          "hex": "#659ab2",
+          "link": "https://www.littlegreene.com/blue-verditer"
+        },
+        {
+          "name": "Air Force Blue",
+          "hex": "#558799",
+          "link": "https://www.littlegreene.com/air-force-blue"
+        },
+        {
+          "name": "Mazarine",
+          "hex": "#235580",
+          "link": "https://www.littlegreene.com/mazarine"
+        },
+        {
+          "name": "Deep Space Blue",
+          "hex": "#003b59",
+          "link": "https://www.littlegreene.com/deep-space-blue"
+        },
+        {
+          "name": "Pale Wedgwood",
+          "hex": "#b7ccda",
+          "link": "https://www.littlegreene.com/pale-wedgwood"
+        },
+        {
+          "name": "James",
+          "hex": "#8597a3",
+          "link": "https://www.littlegreene.com/james"
+        },
+        {
+          "name": "Grey Stone",
+          "hex": "#8aa0ad",
+          "link": "https://www.littlegreene.com/grey-stone"
+        },
+        {
+          "name": "Pale Lupin",
+          "hex": "#6c7892",
+          "link": "https://www.littlegreene.com/pale-lupin"
+        },
+        {
+          "name": "Mambo",
+          "hex": "#5371B8",
+          "link": "https://www.littlegreene.com/mambo"
+        },
+        {
+          "name": "Woad",
+          "hex": "#436382",
+          "link": "https://www.littlegreene.com/woad"
+        },
+        {
+          "name": "Smalt",
+          "hex": "#29467B",
+          "link": "https://www.littlegreene.com/smalt"
+        },
+        {
+          "name": "Thai Sapphire",
+          "hex": "#12042a",
+          "link": "https://www.littlegreene.com/thai-sapphire"
+        },
+        {
+          "name": "Dorchester Pink",
+          "hex": "#dcc6ba",
+          "link": "https://www.littlegreene.com/dorchester-pink"
+        },
+        {
+          "name": "Chemise",
+          "hex": "#f5e8e6",
+          "link": "https://www.littlegreene.com/chemise"
+        },
+        {
+          "name": "Pink Slip",
+          "hex": "#e8d0cb",
+          "link": "https://www.littlegreene.com/pink-slip"
+        },
+        {
+          "name": "Confetti",
+          "hex": "#e9d0cf",
+          "link": "https://www.littlegreene.com/confetti"
+        },
+        {
+          "name": "Hellebore",
+          "hex": "#C8A5A3",
+          "link": "https://www.littlegreene.com/hellebore"
+        },
+        {
+          "name": "Carmine",
+          "hex": "#d5666c",
+          "link": "https://www.littlegreene.com/carmine"
+        },
+        {
+          "name": "Leather",
+          "hex": "#cc3852",
+          "link": "https://www.littlegreene.com/leather"
+        },
+        {
+          "name": "Mischief",
+          "hex": "#ae385d",
+          "link": "https://www.littlegreene.com/mischief"
+        },
+        {
+          "name": "Atomic Red",
+          "hex": "#bd2520",
+          "link": "https://www.littlegreene.com/atomic-red"
+        },
+        {
+          "name": "Orange Aurora",
+          "hex": "#e3634b",
+          "link": "https://www.littlegreene.com/orange-aurora"
+        },
+        {
+          "name": "Marigold",
+          "hex": "#f0841f",
+          "link": "https://www.littlegreene.com/marigold"
+        },
+        {
+          "name": "Heat",
+          "hex": "#9f3c19",
+          "link": "https://www.littlegreene.com/heat"
+        },
+        {
+          "name": "Tuscan Red",
+          "hex": "#874535",
+          "link": "https://www.littlegreene.com/tuscan-red"
+        },
+        {
+          "name": "Bronze Red",
+          "hex": "#6c2322",
+          "link": "https://www.littlegreene.com/bronze-red"
+        },
+        {
+          "name": "Baked Cherry",
+          "hex": "#611117",
+          "link": "https://www.littlegreene.com/baked-cherry"
+        },
+        {
+          "name": "Theatre Red",
+          "hex": "#711324",
+          "link": "https://www.littlegreene.com/theatre-red"
+        },
+        {
+          "name": "Córdoba",
+          "hex": "#493B3C",
+          "link": "https://www.littlegreene.com/cordoba"
+        },
+        {
+          "name": "Invisible Green",
+          "hex": "#2e2b14",
+          "link": "https://www.littlegreene.com/invisible-green"
+        },
+        {
+          "name": "Obsidian Green",
+          "hex": "#132019",
+          "link": "https://www.littlegreene.com/obsidian-green"
+        },
+        {
+          "name": "Royal Navy",
+          "hex": "#294356",
+          "link": "https://www.littlegreene.com/royal-navy"
+        },
+        {
+          "name": "Dock Blue",
+          "hex": "#2e3742",
+          "link": "https://www.littlegreene.com/dock-blue"
+        },
+        {
+          "name": "Basalt",
+          "hex": "#0c1b24",
+          "link": "https://www.littlegreene.com/basalt"
+        },
+        {
+          "name": "Lamp Black",
+          "hex": "#2e2d2e",
+          "link": "https://www.littlegreene.com/lamp-black"
+        },
+        {
+          "name": "Jack Black",
+          "hex": "#040e0f",
+          "link": "https://www.littlegreene.com/jack-black"
+        },
+        {
+          "name": "Ferdinand",
+          "hex": "#fbf1e7",
+          "link": "https://www.littlegreene.com/ferdinand"
+        },
+        {
+          "name": "Light Beauvais",
+          "hex": "#f1e0cc",
+          "link": "https://www.littlegreene.com/light-beauvais"
+        },
+        {
+          "name": "Beauvais Lilac",
+          "hex": "#e9dac3",
+          "link": "https://www.littlegreene.com/beauvais-lilac"
+        },
+        {
+          "name": "Castell Pink",
+          "hex": "#e0c8b2",
+          "link": "https://www.littlegreene.com/castell-pink"
+        },
+        {
+          "name": "Nether Red",
+          "hex": "#92756f",
+          "link": "https://www.littlegreene.com/nether-red"
+        },
+        {
+          "name": "Arras",
+          "hex": "#744442",
+          "link": "https://www.littlegreene.com/arras"
+        },
+        {
+          "name": "Clay - Pale",
+          "hex": "#eee8d8",
+          "link": "https://www.littlegreene.com/clay-pale"
+        },
+        {
+          "name": "Clay - Mid",
+          "hex": "#e7ddc7",
+          "link": "https://www.littlegreene.com/clay-mid"
+        },
+        {
+          "name": "Clay",
+          "hex": "#d4c59c",
+          "link": "https://www.littlegreene.com/clay"
+        },
+        {
+          "name": "Lute",
+          "hex": "#cab49c",
+          "link": "https://www.littlegreene.com/lute"
+        },
+        {
+          "name": "Scullery",
+          "hex": "#624b3b",
+          "link": "https://www.littlegreene.com/scullery"
+        },
+        {
+          "name": "Purple Brown",
+          "hex": "#271410",
+          "link": "https://www.littlegreene.com/purple-brown"
+        },
+        {
+          "name": "Stock",
+          "hex": "#f8f4e3",
+          "link": "https://www.littlegreene.com/stock"
+        },
+        {
+          "name": "Travertine - Light",
+          "hex": "#f0e4ca",
+          "link": "https://www.littlegreene.com/travertine-light"
+        },
+        {
+          "name": "Travertine - Mid",
+          "hex": "#e6d7b8",
+          "link": "https://www.littlegreene.com/travertine-mid"
+        },
+        {
+          "name": "Travertine",
+          "hex": "#dfceb2",
+          "link": "https://www.littlegreene.com/travertine"
+        },
+        {
+          "name": "Light Bronze Green",
+          "hex": "#5a4620",
+          "link": "https://www.littlegreene.com/light-bronze-green"
+        },
+        {
+          "name": "Elysian Ground",
+          "hex": "#443a2e",
+          "link": "https://www.littlegreene.com/elysian-ground"
+        },
+        {
+          "name": "Rolling Fog - Pale",
+          "hex": "#eee8d7",
+          "link": "https://www.littlegreene.com/rolling-fog-pale"
+        },
+        {
+          "name": "Rolling Fog - Light",
+          "hex": "#e0dacb",
+          "link": "https://www.littlegreene.com/rolling-fog-light"
+        },
+        {
+          "name": "Rolling Fog",
+          "hex": "#c5bba8",
+          "link": "https://www.littlegreene.com/rolling-fog"
+        },
+        {
+          "name": "Rolling Fog - Dark",
+          "hex": "#b1a48a",
+          "link": "https://www.littlegreene.com/rolling-fog-dark"
+        },
+        {
+          "name": "Attic II",
+          "hex": "#5a5247",
+          "link": "https://www.littlegreene.com/attic-ii"
+        },
+        {
+          "name": "Chocolate Colour",
+          "hex": "#1e160e",
+          "link": "https://www.littlegreene.com/chocolate-colour"
+        },
+        {
+          "name": "Portland Stone - Pale",
+          "hex": "#e9e6d5",
+          "link": "https://www.littlegreene.com/portland-stone-pale"
+        },
+        {
+          "name": "Portland Stone - Light",
+          "hex": "#e4e2d5",
+          "link": "https://www.littlegreene.com/portland-stone-light"
+        },
+        {
+          "name": "Portland Stone",
+          "hex": "#c9c5a8",
+          "link": "https://www.littlegreene.com/portland-stone"
+        },
+        {
+          "name": "Portland Stone - Dark",
+          "hex": "#a29c7c",
+          "link": "https://www.littlegreene.com/portland-stone-dark"
+        },
+        {
+          "name": "Baluster",
+          "hex": "#89847e",
+          "link": "https://www.littlegreene.com/baluster"
+        },
+        {
+          "name": "Pompeian Ash",
+          "hex": "#5A5F55",
+          "link": "https://www.littlegreene.com/pompeian-ash"
+        },
+        {
+          "name": "Green Stone - Pale",
+          "hex": "#efebdd",
+          "link": "https://www.littlegreene.com/green-stone-pale"
+        },
+        {
+          "name": "Green Stone - Light",
+          "hex": "#e1dbc6",
+          "link": "https://www.littlegreene.com/green-stone-light"
+        },
+        {
+          "name": "Green Stone",
+          "hex": "#d2ceb8",
+          "link": "https://www.littlegreene.com/green-stone"
+        },
+        {
+          "name": "Book Room Green",
+          "hex": "#c2bca2",
+          "link": "https://www.littlegreene.com/book-room-green"
+        },
+        {
+          "name": "Sage Green",
+          "hex": "#77815c",
+          "link": "https://www.littlegreene.com/sage-green"
+        },
+        {
+          "name": "Dark Brunswick Green",
+          "hex": "#082f14",
+          "link": "https://www.littlegreene.com/dark-brunswick-green"
+        },
+        {
+          "name": "Loft White",
+          "hex": "#fdfdfa",
+          "link": "https://www.littlegreene.com/loft-white"
+        },
+        {
+          "name": "Shallows",
+          "hex": "#f1f1ef",
+          "link": "https://www.littlegreene.com/shallows"
+        },
+        {
+          "name": "Inox",
+          "hex": "#dbdbd8",
+          "link": "https://www.littlegreene.com/inox"
+        },
+        {
+          "name": "Urbane Grey",
+          "hex": "#a1a19c",
+          "link": "https://www.littlegreene.com/urbane-grey"
+        },
+        {
+          "name": "Scree",
+          "hex": "#595a57",
+          "link": "https://www.littlegreene.com/scree"
+        },
+        {
+          "name": "Basalt",
+          "hex": "#0c1b24",
+          "link": "https://www.littlegreene.com/basalt"
+        },
+        {
+          "name": "Wood Ash",
+          "hex": "#eeeae1",
+          "link": "https://www.littlegreene.com/wood-ash"
+        },
+        {
+          "name": "Ceviche",
+          "hex": "#e0dbcf",
+          "link": "https://www.littlegreene.com/ceviche"
+        },
+        {
+          "name": "Fescue",
+          "hex": "#ccc7b9",
+          "link": "https://www.littlegreene.com/fescue"
+        },
+        {
+          "name": "Cool Arbour",
+          "hex": "#b1ab9b",
+          "link": "https://www.littlegreene.com/cool-arbour"
+        },
+        {
+          "name": "Livid",
+          "hex": "#6d7d78",
+          "link": "https://www.littlegreene.com/livid"
+        },
+        {
+          "name": "Obsidian Green",
+          "hex": "#132019",
+          "link": "https://www.littlegreene.com/obsidian-green"
+        },
+        {
+          "name": "French Grey - Pale",
+          "hex": "#e7e7db",
+          "link": "https://www.littlegreene.com/french-grey-pale"
+        },
+        {
+          "name": "French Grey - Mid",
+          "hex": "#d6d6ca",
+          "link": "https://www.littlegreene.com/french-grey-mid"
+        },
+        {
+          "name": "French Grey",
+          "hex": "#c8c5b7",
+          "link": "https://www.littlegreene.com/french-grey"
+        },
+        {
+          "name": "French Grey - Dark",
+          "hex": "#b4b1a0",
+          "link": "https://www.littlegreene.com/french-grey-dark"
+        },
+        {
+          "name": "Dark Lead Colour",
+          "hex": "#6d6a65",
+          "link": "https://www.littlegreene.com/dark-lead-colour"
+        },
+        {
+          "name": "Vulcan",
+          "hex": "#525653",
+          "link": "https://www.littlegreene.com/vulcan"
+        },
+        {
+          "name": "Down",
+          "hex": "#eee6dd",
+          "link": "https://www.littlegreene.com/down"
+        },
+        {
+          "name": "Rubine Ashes",
+          "hex": "#d5cec8",
+          "link": "https://www.littlegreene.com/rubine-ashes"
+        },
+        {
+          "name": "Dash of Soot",
+          "hex": "#c9c0ba",
+          "link": "https://www.littlegreene.com/dash-of-soot"
+        },
+        {
+          "name": "Perennial Grey",
+          "hex": "#afa49c",
+          "link": "https://www.littlegreene.com/perennial-grey"
+        },
+        {
+          "name": "Córdoba",
+          "hex": "#493B3C",
+          "link": "https://www.littlegreene.com/cordoba"
+        },
+        {
+          "name": "Arquerite",
+          "hex": "#8c8c91",
+          "link": "https://www.littlegreene.com/arquerite"
+        },
+        {
+          "name": "Gauze",
+          "hex": "#eef0f1",
+          "link": "https://www.littlegreene.com/gauze"
+        },
+        {
+          "name": "Gauze - Mid",
+          "hex": "#e4e6e8",
+          "link": "https://www.littlegreene.com/gauze-mid"
+        },
+        {
+          "name": "Gauze - Dark",
+          "hex": "#c7cccf",
+          "link": "https://www.littlegreene.com/gauze-dark"
+        },
+        {
+          "name": "Obscura",
+          "hex": "#bec4c7",
+          "link": "https://www.littlegreene.com/obscura"
+        },
+        {
+          "name": "Juniper Ash",
+          "hex": "#525969",
+          "link": "https://www.littlegreene.com/juniper-ash"
+        },
+        {
+          "name": "Dock Blue",
+          "hex": "#2e3742",
+          "link": "https://www.littlegreene.com/dock-blue"
+        },
+        {
+          "name": "Bone China Blue - Pale",
+          "hex": "#e2e6e2",
+          "link": "https://www.littlegreene.com/bone-china-blue-pale"
+        },
+        {
+          "name": "Bone China Blue - Mid",
+          "hex": "#d0d4d0",
+          "link": "https://www.littlegreene.com/bone-china-blue-mid"
+        },
+        {
+          "name": "Bone China Blue - Faint",
+          "hex": "#C2D0D2",
+          "link": "https://www.littlegreene.com/bone-china-blue-faint"
+        },
+        {
+          "name": "Bone China Blue",
+          "hex": "#A8B9BD",
+          "link": "https://www.littlegreene.com/bone-china-blue"
+        },
+        {
+          "name": "Etruria",
+          "hex": "#627D85",
+          "link": "https://www.littlegreene.com/etruria"
+        },
+        {
+          "name": "Hicks' Blue",
+          "hex": "#415968",
+          "link": "https://www.littlegreene.com/hicks-blue"
+        },
+        {
+          "name": "Aquamarine - Pale",
+          "hex": "#E9F4ED",
+          "link": "https://www.littlegreene.com/aquamarine-pale"
+        },
+        {
+          "name": "Aquamarine - Light",
+          "hex": "#DBE9DF",
+          "link": "https://www.littlegreene.com/aquamarine-light"
+        },
+        {
+          "name": "Aquamarine - Mid",
+          "hex": "#C6D6CA",
+          "link": "https://www.littlegreene.com/aquamarine-mid"
+        },
+        {
+          "name": "Aquamarine",
+          "hex": "#a8bba0",
+          "link": "https://www.littlegreene.com/aquamarine"
+        },
+        {
+          "name": "Pleat",
+          "hex": "#5f7a75",
+          "link": "https://www.littlegreene.com/pleat"
+        },
+        {
+          "name": "Mid Azure Green",
+          "hex": "#063025",
+          "link": "https://www.littlegreene.com/mid-azure-green"
+        },
+        {
+          "name": "Pearl Colour - Pale",
+          "hex": "#e6ebe1",
+          "link": "https://www.littlegreene.com/pearl-colour-pale"
+        },
+        {
+          "name": "Pearl Colour - Mid",
+          "hex": "#dde3d6",
+          "link": "https://www.littlegreene.com/pearl-colour-mid"
+        },
+        {
+          "name": "Pearl Colour",
+          "hex": "#d4dacc",
+          "link": "https://www.littlegreene.com/pearl-colour"
+        },
+        {
+          "name": "Pearl Colour - Dark",
+          "hex": "#bec5b8",
+          "link": "https://www.littlegreene.com/pearl-colour-dark"
+        },
+        {
+          "name": "Ambleside",
+          "hex": "#738478",
+          "link": "https://www.littlegreene.com/ambleside"
+        },
+        {
+          "name": "Three Farm Green",
+          "hex": "#475953",
+          "link": "https://www.littlegreene.com/three-farm-green"
+        },
+        {
+          "name": "Slaked Lime",
+          "hex": "#f0f1ec",
+          "link": "https://www.littlegreene.com/slaked-lime"
+        },
+        {
+          "name": "Slaked Lime - Mid",
+          "hex": "#f4ecdf",
+          "link": "https://www.littlegreene.com/slaked-lime-mid"
+        },
+        {
+          "name": "Slaked Lime - Deep",
+          "hex": "#d2c7ae",
+          "link": "https://www.littlegreene.com/slaked-lime-deep"
+        },
+        {
+          "name": "Slaked Lime - Dark",
+          "hex": "#bdb29a",
+          "link": "https://www.littlegreene.com/slaked-lime-dark"
+        },
+        {
+          "name": "Silt",
+          "hex": "#857e6c",
+          "link": "https://www.littlegreene.com/silt"
+        },
+        {
+          "name": "Lamp Black",
+          "hex": "#2e2d2e",
+          "link": "https://www.littlegreene.com/lamp-black"
+        },
+        {
+          "name": "Silent White - Pale",
+          "hex": "#FBFDF2",
+          "link": "https://www.littlegreene.com/silent-white-pale"
+        },
+        {
+          "name": "Silent White",
+          "hex": "#F5F3E2",
+          "link": "https://www.littlegreene.com/silent-white"
+        },
+        {
+          "name": "Silent White - Mid",
+          "hex": "#F2ECD7",
+          "link": "https://www.littlegreene.com/silent-white-mid"
+        },
+        {
+          "name": "Silent White - Deep",
+          "hex": "#EBE3C8",
+          "link": "https://www.littlegreene.com/silent-white-deep"
+        },
+        {
+          "name": "Oak Apple",
+          "hex": "#cdc185",
+          "link": "https://www.littlegreene.com/oak-apple"
+        },
+        {
+          "name": "Yellow-Pink",
+          "hex": "#d0a946",
+          "link": "https://www.littlegreene.com/yellow-pink"
+        },
+        {
+          "name": "China Clay",
+          "hex": "#f7ede0",
+          "link": "https://www.littlegreene.com/china-clay"
+        },
+        {
+          "name": "China Clay - Mid",
+          "hex": "#ecd9cb",
+          "link": "https://www.littlegreene.com/china-clay-mid"
+        },
+        {
+          "name": "China Clay - Deep",
+          "hex": "#dac2b4",
+          "link": "https://www.littlegreene.com/china-clay-deep"
+        },
+        {
+          "name": "China Clay - Dark",
+          "hex": "#cbb1a2",
+          "link": "https://www.littlegreene.com/china-clay-dark"
+        },
+        {
+          "name": "Blush",
+          "hex": "#AE8A82",
+          "link": "https://www.littlegreene.com/blush"
+        },
+        {
+          "name": "Adventurer",
+          "hex": "#5d3a40",
+          "link": "https://www.littlegreene.com/adventurer"
+        },
+        {
+          "name": "Julie's Dream",
+          "hex": "#f1e7dd",
+          "link": "https://www.littlegreene.com/julie-s-dream"
+        },
+        {
+          "name": "Masquerade - Light",
+          "hex": "#ECDBCA",
+          "link": "https://www.littlegreene.com/masquerade-light"
+        },
+        {
+          "name": "Masquerade - Mid",
+          "hex": "#E2CCB8",
+          "link": "https://www.littlegreene.com/masquerade-mid"
+        },
+        {
+          "name": "Masquerade",
+          "hex": "#D2B6A0",
+          "link": "https://www.littlegreene.com/masquerade"
+        },
+        {
+          "name": "Tuscan Red",
+          "hex": "#874535",
+          "link": "https://www.littlegreene.com/tuscan-red"
+        },
+        {
+          "name": "Bronze Red",
+          "hex": "#6c2322",
+          "link": "https://www.littlegreene.com/bronze-red"
+        },
+        {
+          "name": "Ganache",
+          "hex": "#5C453A",
+          "link": "https://www.littlegreene.com/ganache"
+        },
+        {
+          "name": "Mochi",
+          "hex": "#BBA593",
+          "link": "https://www.littlegreene.com/mochi"
+        },
+        {
+          "name": "Muscovado",
+          "hex": "#86563E",
+          "link": "https://www.littlegreene.com/muscovado"
+        },
+        {
+          "name": "Affogato",
+          "hex": "#926A49",
+          "link": "https://www.littlegreene.com/affogato"
+        },
+        {
+          "name": "Split Pink",
+          "hex": "#A68269",
+          "link": "https://www.littlegreene.com/split-pink"
+        },
+        {
+          "name": "Galette",
+          "hex": "#957246",
+          "link": "https://www.littlegreene.com/galette"
+        },
+        {
+          "name": "Bombolone",
+          "hex": "#C29C64",
+          "link": "https://www.littlegreene.com/bombolone"
+        },
+        {
+          "name": "Madeleine",
+          "hex": "#D7BC87",
+          "link": "https://www.littlegreene.com/madeleine"
+        },
+        {
+          "name": "Chocolate Colour",
+          "hex": "#1e160e",
+          "link": "https://www.littlegreene.com/chocolate-colour"
+        }
+      ]
+    },
+    {
+      "name": "Paint & Paper Library",
+      "slug": "paint-and-paper-library",
+      "shortname": "P&PL",
+      "website": "https://www.paintandpaperlibrary.com",
+      "swatches": [
+        {
+          "name": "Clean White",
+          "hex": "#FBFFFF",
+          "link": "https://www.paintandpaperlibrary.com/clean-white"
+        },
+        {
+          "name": "Fuji",
+          "hex": "#FCFFFC",
+          "link": "https://www.paintandpaperlibrary.com/fuji"
+        },
+        {
+          "name": "Capuchin",
+          "hex": "#EBEBE7",
+          "link": "https://www.paintandpaperlibrary.com/capuchin"
+        },
+        {
+          "name": "Chaste",
+          "hex": "#FFFFF2",
+          "link": "https://www.paintandpaperlibrary.com/chaste"
+        },
+        {
+          "name": "Paarl",
+          "hex": "#FEFEEF",
+          "link": "https://www.paintandpaperlibrary.com/paarl"
+        },
+        {
+          "name": "Tallanstown Grey",
+          "hex": "#888F8D",
+          "link": "https://www.paintandpaperlibrary.com/tallanstown-grey"
+        },
+        {
+          "name": "Paris Rooftops",
+          "hex": "#6D726F",
+          "link": "https://www.paintandpaperlibrary.com/paris-rooftops"
+        },
+        {
+          "name": "Acqua Viva",
+          "hex": "#4C5250",
+          "link": "https://www.paintandpaperlibrary.com/acqua-viva"
+        },
+        {
+          "name": "New Black",
+          "hex": "#353A37",
+          "link": "https://www.paintandpaperlibrary.com/new-black"
+        },
+        {
+          "name": "Cotton I",
+          "hex": "#EDF0ED",
+          "link": "https://www.paintandpaperlibrary.com/cotton-i"
+        },
+        {
+          "name": "Cotton II",
+          "hex": "#DEE1D9",
+          "link": "https://www.paintandpaperlibrary.com/cotton-ii"
+        },
+        {
+          "name": "Cotton III",
+          "hex": "#D7DAD2",
+          "link": "https://www.paintandpaperlibrary.com/cotton-iii"
+        },
+        {
+          "name": "Cotton IV",
+          "hex": "#D1D3CB",
+          "link": "https://www.paintandpaperlibrary.com/cotton-iv"
+        },
+        {
+          "name": "Cotton V",
+          "hex": "#CBCDC4",
+          "link": "https://www.paintandpaperlibrary.com/cotton-v"
+        },
+        {
+          "name": "Perse Grey",
+          "hex": "#515458",
+          "link": "https://www.paintandpaperlibrary.com/perse-grey"
+        },
+        {
+          "name": "Opus",
+          "hex": "#99968E",
+          "link": "https://www.paintandpaperlibrary.com/opus"
+        },
+        {
+          "name": "Monument",
+          "hex": "#7B7875",
+          "link": "https://www.paintandpaperlibrary.com/monument"
+        },
+        {
+          "name": "Drakensberg",
+          "hex": "#726F6E",
+          "link": "https://www.paintandpaperlibrary.com/drakensberg"
+        },
+        {
+          "name": "Slate I",
+          "hex": "#F8FAF1",
+          "link": "https://www.paintandpaperlibrary.com/slate-i"
+        },
+        {
+          "name": "Slate II",
+          "hex": "#ECEBDF",
+          "link": "https://www.paintandpaperlibrary.com/slate-ii"
+        },
+        {
+          "name": "Slate III",
+          "hex": "#E4E2D5",
+          "link": "https://www.paintandpaperlibrary.com/slate-iii"
+        },
+        {
+          "name": "Slate IV",
+          "hex": "#D8D7CB",
+          "link": "https://www.paintandpaperlibrary.com/slate-iv"
+        },
+        {
+          "name": "Slate V",
+          "hex": "#C9C7B8",
+          "link": "https://www.paintandpaperlibrary.com/slate-v"
+        },
+        {
+          "name": "Sharkskin",
+          "hex": "#8F8C7D",
+          "link": "https://www.paintandpaperlibrary.com/sharkskin"
+        },
+        {
+          "name": "Blanket",
+          "hex": "#ABB0A9",
+          "link": "https://www.paintandpaperlibrary.com/blanket"
+        },
+        {
+          "name": "Panel",
+          "hex": "#8C938A",
+          "link": "https://www.paintandpaperlibrary.com/panel"
+        },
+        {
+          "name": "Hornblende",
+          "hex": "#666B5C",
+          "link": "https://www.paintandpaperlibrary.com/hornblende"
+        },
+        {
+          "name": "Stone I",
+          "hex": "#F6F3E5",
+          "link": "https://www.paintandpaperlibrary.com/stone-i"
+        },
+        {
+          "name": "Stone II",
+          "hex": "#EFE9D8",
+          "link": "https://www.paintandpaperlibrary.com/stone-ii"
+        },
+        {
+          "name": "Stone III",
+          "hex": "#E4DBC6",
+          "link": "https://www.paintandpaperlibrary.com/stone-iii"
+        },
+        {
+          "name": "Stone IV",
+          "hex": "#D1C8B3",
+          "link": "https://www.paintandpaperlibrary.com/stone-iv"
+        },
+        {
+          "name": "Stone V",
+          "hex": "#c0b59d",
+          "link": "https://www.paintandpaperlibrary.com/stone-v"
+        },
+        {
+          "name": "Topi",
+          "hex": "#AA9E8B",
+          "link": "https://www.paintandpaperlibrary.com/topi"
+        },
+        {
+          "name": "Tarlatan",
+          "hex": "#AAA390",
+          "link": "https://www.paintandpaperlibrary.com/tarlatan"
+        },
+        {
+          "name": "Moleskin",
+          "hex": "#9A9688",
+          "link": "https://www.paintandpaperlibrary.com/moleskin"
+        },
+        {
+          "name": "Kohl",
+          "hex": "#474747",
+          "link": "https://www.paintandpaperlibrary.com/kohl"
+        },
+        {
+          "name": "Canvas I",
+          "hex": "#e7e5d6",
+          "link": "https://www.paintandpaperlibrary.com/canvas-i"
+        },
+        {
+          "name": "Canvas II",
+          "hex": "#E2DECC",
+          "link": "https://www.paintandpaperlibrary.com/canvas-ii"
+        },
+        {
+          "name": "Canvas III",
+          "hex": "#DBD2BA",
+          "link": "https://www.paintandpaperlibrary.com/canvas-iii"
+        },
+        {
+          "name": "Canvas IV",
+          "hex": "#D0C4AA",
+          "link": "https://www.paintandpaperlibrary.com/canvas-iv"
+        },
+        {
+          "name": "Canvas V",
+          "hex": "#C9BB9F",
+          "link": "https://www.paintandpaperlibrary.com/canvas-v"
+        },
+        {
+          "name": "Truffle",
+          "hex": "#A5977B",
+          "link": "https://www.paintandpaperlibrary.com/truffle"
+        },
+        {
+          "name": "Thames Mud",
+          "hex": "#C5B89E",
+          "link": "https://www.paintandpaperlibrary.com/thames-mud"
+        },
+        {
+          "name": "Barbican",
+          "hex": "#A09E93",
+          "link": "https://www.paintandpaperlibrary.com/barbican"
+        },
+        {
+          "name": "Bronze",
+          "hex": "#595A3F",
+          "link": "https://www.paintandpaperlibrary.com/bronze"
+        },
+        {
+          "name": "Powder I",
+          "hex": "#f8f5ec",
+          "link": "https://www.paintandpaperlibrary.com/powder-i"
+        },
+        {
+          "name": "Powder II",
+          "hex": "#f0e6d9",
+          "link": "https://www.paintandpaperlibrary.com/powder-ii"
+        },
+        {
+          "name": "Powder III",
+          "hex": "#e7d9c9",
+          "link": "https://www.paintandpaperlibrary.com/powder-iii"
+        },
+        {
+          "name": "Powder IV",
+          "hex": "#dcc9b6",
+          "link": "https://www.paintandpaperlibrary.com/powder-iv"
+        },
+        {
+          "name": "Powder V",
+          "hex": "#cfb8a1",
+          "link": "https://www.paintandpaperlibrary.com/powder-v"
+        },
+        {
+          "name": "Mink",
+          "hex": "#b39c85",
+          "link": "https://www.paintandpaperlibrary.com/plmink"
+        },
+        {
+          "name": "Desert Rose",
+          "hex": "#CFBFAD",
+          "link": "https://www.paintandpaperlibrary.com/desert-rose"
+        },
+        {
+          "name": "Temple",
+          "hex": "#D8C0AC",
+          "link": "https://www.paintandpaperlibrary.com/temple"
+        },
+        {
+          "name": "Copper Beech",
+          "hex": "#423C39",
+          "link": "https://www.paintandpaperlibrary.com/copper-beech"
+        },
+        {
+          "name": "Plaster I",
+          "hex": "#F9F3E9",
+          "link": "https://www.paintandpaperlibrary.com/plaster-i"
+        },
+        {
+          "name": "Plaster II",
+          "hex": "#EFE6E0",
+          "link": "https://www.paintandpaperlibrary.com/plaster-ii"
+        },
+        {
+          "name": "Plaster III",
+          "hex": "#E4D9D1",
+          "link": "https://www.paintandpaperlibrary.com/plaster-iii"
+        },
+        {
+          "name": "Plaster IV",
+          "hex": "#D8C8BE",
+          "link": "https://www.paintandpaperlibrary.com/plaster-iv"
+        },
+        {
+          "name": "Plaster V",
+          "hex": "#C7B3A9",
+          "link": "https://www.paintandpaperlibrary.com/plaster-v"
+        },
+        {
+          "name": "Ruse",
+          "hex": "#af9188",
+          "link": "https://www.paintandpaperlibrary.com/ruse"
+        },
+        {
+          "name": "Soumak",
+          "hex": "#755758",
+          "link": "https://www.paintandpaperlibrary.com/soumak"
+        },
+        {
+          "name": "Roben's Honour",
+          "hex": "#cfa995",
+          "link": "https://www.paintandpaperlibrary.com/robens-honour"
+        },
+        {
+          "name": "Kasbah",
+          "hex": "#a7776c",
+          "link": "https://www.paintandpaperlibrary.com/kasbah"
+        },
+        {
+          "name": "Marble I",
+          "hex": "#F5FAF8",
+          "link": "https://www.paintandpaperlibrary.com/marble-i"
+        },
+        {
+          "name": "Marble II",
+          "hex": "#F1F0ED",
+          "link": "https://www.paintandpaperlibrary.com/marble-ii"
+        },
+        {
+          "name": "Marble III",
+          "hex": "#E8E6E3",
+          "link": "https://www.paintandpaperlibrary.com/marble-iii"
+        },
+        {
+          "name": "Marble IV",
+          "hex": "#DCD8D5",
+          "link": "https://www.paintandpaperlibrary.com/marble-iv"
+        },
+        {
+          "name": "Marble V",
+          "hex": "#CDC6C4",
+          "link": "https://www.paintandpaperlibrary.com/marble-v"
+        },
+        {
+          "name": "Lady Char's Lilac",
+          "hex": "#AF9FA4",
+          "link": "https://www.paintandpaperlibrary.com/lady-chars-lilac"
+        },
+        {
+          "name": "Rouge II",
+          "hex": "#9E887E",
+          "link": "https://www.paintandpaperlibrary.com/rouge-ii"
+        },
+        {
+          "name": "Mchanga ",
+          "hex": "#8d746a",
+          "link": "https://www.paintandpaperlibrary.com/mchanga"
+        },
+        {
+          "name": "Plum Brandy",
+          "hex": "#6E5856",
+          "link": "https://www.paintandpaperlibrary.com/plum-brandy"
+        },
+        {
+          "name": "Salt I",
+          "hex": "#E8E9E1",
+          "link": "https://www.paintandpaperlibrary.com/salt-i"
+        },
+        {
+          "name": "Salt II",
+          "hex": "#DAD9D1",
+          "link": "https://www.paintandpaperlibrary.com/salt-ii"
+        },
+        {
+          "name": "Salt III",
+          "hex": "#D1CEC6",
+          "link": "https://www.paintandpaperlibrary.com/salt-iii"
+        },
+        {
+          "name": "Salt IV",
+          "hex": "#C3C0B8",
+          "link": "https://www.paintandpaperlibrary.com/salt-iv"
+        },
+        {
+          "name": "Salt V",
+          "hex": "#BCBAB2",
+          "link": "https://www.paintandpaperlibrary.com/salt-v"
+        },
+        {
+          "name": "Scarlet 'n' Rust",
+          "hex": "#5f4037",
+          "link": "https://www.paintandpaperlibrary.com/scarlet-n-rust"
+        },
+        {
+          "name": "Grenache",
+          "hex": "#613A3E",
+          "link": "https://www.paintandpaperlibrary.com/grenache"
+        },
+        {
+          "name": "Rhubarb",
+          "hex": "#B87579",
+          "link": "https://www.paintandpaperlibrary.com/rhubarb"
+        },
+        {
+          "name": "Very Well Red",
+          "hex": "#924946",
+          "link": "https://www.paintandpaperlibrary.com/very-well-red"
+        },
+        {
+          "name": "Leather I",
+          "hex": "#F1ECDB",
+          "link": "https://www.paintandpaperlibrary.com/leather-i"
+        },
+        {
+          "name": "Leather II",
+          "hex": "#EDE2CD",
+          "link": "https://www.paintandpaperlibrary.com/leather-ii"
+        },
+        {
+          "name": "Leather III",
+          "hex": "#E3D4BA",
+          "link": "https://www.paintandpaperlibrary.com/leather-iii"
+        },
+        {
+          "name": "Leather IV",
+          "hex": "#D6C3A5",
+          "link": "https://www.paintandpaperlibrary.com/leather-iv"
+        },
+        {
+          "name": "Leather V",
+          "hex": "#C6AF8F",
+          "link": "https://www.paintandpaperlibrary.com/leather-v"
+        },
+        {
+          "name": "Geisha",
+          "hex": "#7E3B3A",
+          "link": "https://www.paintandpaperlibrary.com/geisha"
+        },
+        {
+          "name": "Beetlenut",
+          "hex": "#A85A4D",
+          "link": "https://www.paintandpaperlibrary.com/beetlenut"
+        },
+        {
+          "name": "Jaipur Pink",
+          "hex": "#d39784",
+          "link": "https://www.paintandpaperlibrary.com/jaipur-pink"
+        },
+        {
+          "name": "Caravan",
+          "hex": "#a85c3b",
+          "link": "https://www.paintandpaperlibrary.com/caravan"
+        },
+        {
+          "name": "Paper I",
+          "hex": "#F9F6E2",
+          "link": "https://www.paintandpaperlibrary.com/paper-i"
+        },
+        {
+          "name": "Paper II",
+          "hex": "#F8EED8",
+          "link": "https://www.paintandpaperlibrary.com/paper-ii"
+        },
+        {
+          "name": "Paper III",
+          "hex": "#EDE0C4",
+          "link": "https://www.paintandpaperlibrary.com/paper-iii"
+        },
+        {
+          "name": "Paper IV",
+          "hex": "#E5D6B4",
+          "link": "https://www.paintandpaperlibrary.com/paper-iv"
+        },
+        {
+          "name": "Paper V",
+          "hex": "#D8C49E",
+          "link": "https://www.paintandpaperlibrary.com/paper-v"
+        },
+        {
+          "name": "Muga",
+          "hex": "#AD8140",
+          "link": "https://www.paintandpaperlibrary.com/muga"
+        },
+        {
+          "name": "Morning Room",
+          "hex": "#DFB36C",
+          "link": "https://www.paintandpaperlibrary.com/morning-room"
+        },
+        {
+          "name": "Caddie",
+          "hex": "#AD926B",
+          "link": "https://www.paintandpaperlibrary.com/caddie"
+        },
+        {
+          "name": "The Long Room ",
+          "hex": "#b7784a",
+          "link": "https://www.paintandpaperlibrary.com/the-long-room"
+        },
+        {
+          "name": "Cashmere I",
+          "hex": "#fbfcf0",
+          "link": "https://www.paintandpaperlibrary.com/cashmere-i"
+        },
+        {
+          "name": "Cashmere II",
+          "hex": "#f8f5e5",
+          "link": "https://www.paintandpaperlibrary.com/cashmere-ii"
+        },
+        {
+          "name": "Cashmere III",
+          "hex": "#f2edd7",
+          "link": "https://www.paintandpaperlibrary.com/cashmere-iii"
+        },
+        {
+          "name": "Cashmere IV",
+          "hex": "#eae1c6",
+          "link": "https://www.paintandpaperlibrary.com/cashmere-iv"
+        },
+        {
+          "name": "Cashmere V",
+          "hex": "#dfd4b4",
+          "link": "https://www.paintandpaperlibrary.com/cashmere-v"
+        },
+        {
+          "name": "Brimstone",
+          "hex": "#ebcf75",
+          "link": "https://www.paintandpaperlibrary.com/brimstone"
+        },
+        {
+          "name": "Chinese Emperor",
+          "hex": "#E9C365",
+          "link": "https://www.paintandpaperlibrary.com/chinese-emperor"
+        },
+        {
+          "name": "Gamboge",
+          "hex": "#DDB036",
+          "link": "https://www.paintandpaperlibrary.com/gamboge"
+        },
+        {
+          "name": "Pollen II",
+          "hex": "#cb9d53",
+          "link": "https://www.paintandpaperlibrary.com/pollen-ii"
+        },
+        {
+          "name": "Sand I",
+          "hex": "#FAFBEC",
+          "link": "https://www.paintandpaperlibrary.com/sand-i"
+        },
+        {
+          "name": "Sand II",
+          "hex": "#F7F3E1",
+          "link": "https://www.paintandpaperlibrary.com/sand-ii"
+        },
+        {
+          "name": "Sand III",
+          "hex": "#EDE7D2",
+          "link": "https://www.paintandpaperlibrary.com/sand-iii"
+        },
+        {
+          "name": "Sand IV",
+          "hex": "#E5DAC1",
+          "link": "https://www.paintandpaperlibrary.com/sand-iv"
+        },
+        {
+          "name": "Sand V",
+          "hex": "#D8CAAD",
+          "link": "https://www.paintandpaperlibrary.com/sand-v"
+        },
+        {
+          "name": "Parasol",
+          "hex": "#E9C176",
+          "link": "https://www.paintandpaperlibrary.com/parasol"
+        },
+        {
+          "name": "Scallion",
+          "hex": "#DCCA85",
+          "link": "https://www.paintandpaperlibrary.com/scallion"
+        },
+        {
+          "name": "Fynbos",
+          "hex": "#6b786c",
+          "link": "https://www.paintandpaperlibrary.com/fynbos"
+        },
+        {
+          "name": "Hunter Dunn",
+          "hex": "#3E5746",
+          "link": "https://www.paintandpaperlibrary.com/hunter-dunn"
+        },
+        {
+          "name": "Wattle I",
+          "hex": "#F6F6E8",
+          "link": "https://www.paintandpaperlibrary.com/wattle-i"
+        },
+        {
+          "name": "Wattle II",
+          "hex": "#E8E8D9",
+          "link": "https://www.paintandpaperlibrary.com/wattle-ii"
+        },
+        {
+          "name": "Wattle III",
+          "hex": "#DCDBC6",
+          "link": "https://www.paintandpaperlibrary.com/wattle-iii"
+        },
+        {
+          "name": "Wattle IV",
+          "hex": "#CDCBB6",
+          "link": "https://www.paintandpaperlibrary.com/wattle-iv"
+        },
+        {
+          "name": "Wattle V",
+          "hex": "#C4BEA2",
+          "link": "https://www.paintandpaperlibrary.com/wattle-v"
+        },
+        {
+          "name": "Ilex",
+          "hex": "#393C3D",
+          "link": "https://www.paintandpaperlibrary.com/ilex"
+        },
+        {
+          "name": "Iguana",
+          "hex": "#627e7c",
+          "link": "https://www.paintandpaperlibrary.com/iguana"
+        },
+        {
+          "name": "Chelsea Green II",
+          "hex": "#9CA572",
+          "link": "https://www.paintandpaperlibrary.com/chelsea-green-ii"
+        },
+        {
+          "name": "Stable Green",
+          "hex": "#39443B",
+          "link": "https://www.paintandpaperlibrary.com/stable-green"
+        },
+        {
+          "name": "Willow I",
+          "hex": "#F5F6E4",
+          "link": "https://www.paintandpaperlibrary.com/willow-i"
+        },
+        {
+          "name": "Willow II",
+          "hex": "#F0F2DC",
+          "link": "https://www.paintandpaperlibrary.com/willow-ii"
+        },
+        {
+          "name": "Willow III",
+          "hex": "#E4E5CA",
+          "link": "https://www.paintandpaperlibrary.com/willow-iii"
+        },
+        {
+          "name": "Willow IV",
+          "hex": "#D9D9B8",
+          "link": "https://www.paintandpaperlibrary.com/willow-iv"
+        },
+        {
+          "name": "Willow V",
+          "hex": "#C8C7A2",
+          "link": "https://www.paintandpaperlibrary.com/willow-v"
+        },
+        {
+          "name": "Sencha",
+          "hex": "#81876b",
+          "link": "https://www.paintandpaperlibrary.com/sencha"
+        },
+        {
+          "name": "The Botanist",
+          "hex": "#8A8766",
+          "link": "https://www.paintandpaperlibrary.com/the-botanist"
+        },
+        {
+          "name": "Apple Smiles II",
+          "hex": "#6A7E58",
+          "link": "https://www.paintandpaperlibrary.com/apple-smiles-ii"
+        },
+        {
+          "name": "Greenback",
+          "hex": "#90977F",
+          "link": "https://www.paintandpaperlibrary.com/greenback"
+        },
+        {
+          "name": "Sprig I",
+          "hex": "#eef6eb",
+          "link": "https://www.paintandpaperlibrary.com/sprig-i"
+        },
+        {
+          "name": "Sprig II",
+          "hex": "#e4eddf",
+          "link": "https://www.paintandpaperlibrary.com/sprig-ii"
+        },
+        {
+          "name": "Sprig III",
+          "hex": "#d7e2d2",
+          "link": "https://www.paintandpaperlibrary.com/sprig-iii"
+        },
+        {
+          "name": "Sprig IV",
+          "hex": "#c7d3bf",
+          "link": "https://www.paintandpaperlibrary.com/sprig-iv"
+        },
+        {
+          "name": "Sprig V",
+          "hex": "#b5c0a9",
+          "link": "https://www.paintandpaperlibrary.com/sprig-v"
+        },
+        {
+          "name": "Sobek",
+          "hex": "#B9C2AE",
+          "link": "https://www.paintandpaperlibrary.com/sobek"
+        },
+        {
+          "name": "NORI (のり)",
+          "hex": "#425551",
+          "link": "https://www.paintandpaperlibrary.com/nori"
+        },
+        {
+          "name": "Salvia",
+          "hex": "#93A996",
+          "link": "https://www.paintandpaperlibrary.com/salvia"
+        },
+        {
+          "name": "Deep Water Green",
+          "hex": "#84BAB0",
+          "link": "https://www.paintandpaperlibrary.com/deep-water-green"
+        },
+        {
+          "name": "Glass I",
+          "hex": "#EEF6EF",
+          "link": "https://www.paintandpaperlibrary.com/glass-i"
+        },
+        {
+          "name": "Glass II",
+          "hex": "#E4EFE6",
+          "link": "https://www.paintandpaperlibrary.com/glass-ii"
+        },
+        {
+          "name": "Glass III",
+          "hex": "#D7E2D7",
+          "link": "https://www.paintandpaperlibrary.com/glass-iii"
+        },
+        {
+          "name": "Glass IV",
+          "hex": "#C2CDC0",
+          "link": "https://www.paintandpaperlibrary.com/glass-iv"
+        },
+        {
+          "name": "Glass V",
+          "hex": "#ADB9AA",
+          "link": "https://www.paintandpaperlibrary.com/glass-v"
+        },
+        {
+          "name": "Constantia Blue",
+          "hex": "#ACCCC8",
+          "link": "https://www.paintandpaperlibrary.com/constantia-blue"
+        },
+        {
+          "name": "Tablecloth",
+          "hex": "#BAC4C4",
+          "link": "https://www.paintandpaperlibrary.com/tablecloth"
+        },
+        {
+          "name": "Blue Gum",
+          "hex": "#709296",
+          "link": "https://www.paintandpaperlibrary.com/blue-gum"
+        },
+        {
+          "name": "Teal",
+          "hex": "#296668",
+          "link": "https://www.paintandpaperlibrary.com/teal"
+        },
+        {
+          "name": "Steel I",
+          "hex": "#F0F4EF",
+          "link": "https://www.paintandpaperlibrary.com/steel-i"
+        },
+        {
+          "name": "Steel II",
+          "hex": "#E3EBE5",
+          "link": "https://www.paintandpaperlibrary.com/steel-ii"
+        },
+        {
+          "name": "Steel III",
+          "hex": "#D5DED7",
+          "link": "https://www.paintandpaperlibrary.com/steel-iii"
+        },
+        {
+          "name": "Steel IV",
+          "hex": "#C5CDC6",
+          "link": "https://www.paintandpaperlibrary.com/steel-iv"
+        },
+        {
+          "name": "Steel V",
+          "hex": "#B0BAB2",
+          "link": "https://www.paintandpaperlibrary.com/steel-v"
+        },
+        {
+          "name": "Blue's Blue",
+          "hex": "#6F9AA7",
+          "link": "https://www.paintandpaperlibrary.com/blues-blue"
+        },
+        {
+          "name": "Sea Nor Sky",
+          "hex": "#9FB5B6",
+          "link": "https://www.paintandpaperlibrary.com/sea-nor-sky"
+        },
+        {
+          "name": "Bluebird",
+          "hex": "#A7C5D2",
+          "link": "https://www.paintandpaperlibrary.com/bluebird"
+        },
+        {
+          "name": "Plimsoll",
+          "hex": "#2E3742",
+          "link": "https://www.paintandpaperlibrary.com/plimsoll"
+        },
+        {
+          "name": "Porcelain I",
+          "hex": "#ECF5F5",
+          "link": "https://www.paintandpaperlibrary.com/porcelain-i"
+        },
+        {
+          "name": "Porcelain II",
+          "hex": "#E2ECED",
+          "link": "https://www.paintandpaperlibrary.com/porcelain-ii"
+        },
+        {
+          "name": "Porcelain III",
+          "hex": "#D4E0E1",
+          "link": "https://www.paintandpaperlibrary.com/porcelain-iii"
+        },
+        {
+          "name": "Porcelain IV",
+          "hex": "#C4D1D4",
+          "link": "https://www.paintandpaperlibrary.com/porcelain-iv"
+        },
+        {
+          "name": "Porcelain V",
+          "hex": "#AEBDC0",
+          "link": "https://www.paintandpaperlibrary.com/porcelain-v"
+        },
+        {
+          "name": "Blue Blood",
+          "hex": "#5D7481",
+          "link": "https://www.paintandpaperlibrary.com/blue-blood"
+        },
+        {
+          "name": "Blue Pearl",
+          "hex": "#426384",
+          "link": "https://www.paintandpaperlibrary.com/blue-pearl"
+        },
+        {
+          "name": "Blue Vein",
+          "hex": "#91AAB8",
+          "link": "https://www.paintandpaperlibrary.com/blue-vein"
+        },
+        {
+          "name": "Kigali",
+          "hex": "#344349",
+          "link": "https://www.paintandpaperlibrary.com/kigali"
+        },
+        {
+          "name": "Lead I",
+          "hex": "#F5FBF8",
+          "link": "https://www.paintandpaperlibrary.com/lead-i"
+        },
+        {
+          "name": "Lead II",
+          "hex": "#EDF3F2",
+          "link": "https://www.paintandpaperlibrary.com/lead-ii"
+        },
+        {
+          "name": "Lead III",
+          "hex": "#E2E9E9",
+          "link": "https://www.paintandpaperlibrary.com/lead-iii"
+        },
+        {
+          "name": "Lead IV",
+          "hex": "#D3DBDC",
+          "link": "https://www.paintandpaperlibrary.com/lead-iv"
+        },
+        {
+          "name": "Lead V",
+          "hex": "#C2C9CC",
+          "link": "https://www.paintandpaperlibrary.com/lead-v"
+        },
+        {
+          "name": "Spruce",
+          "hex": "#9CAEAE",
+          "link": "https://www.paintandpaperlibrary.com/spruce"
+        },
+        {
+          "name": "BTWN Dog & Wolf",
+          "hex": "#758286",
+          "link": "https://www.paintandpaperlibrary.com/btwn-dog-wolf"
+        },
+        {
+          "name": "Mockingbird",
+          "hex": "#3e5865",
+          "link": "https://www.paintandpaperlibrary.com/mockingbird"
+        },
+        {
+          "name": "Squid Ink",
+          "hex": "#515F5F",
+          "link": "https://www.paintandpaperlibrary.com/squid-ink"
+        }
+      ]
+    },
+    {
+      "name": "Edward Bulmer",
+      "slug": "edward-bulmer",
+      "shortname": "EB",
+      "website": "https://www.edwardbulmer.com",
+      "swatches": [
+        {
+          "name": "Jonquil",
+          "hex": "#DCBFAB",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/jonquil/"
+        },
+        {
+          "name": "Clove",
+          "hex": "#CDB49A",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/clove/"
+        },
+        {
+          "name": "Lilac Pink",
+          "hex": "#DFCCB6",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/lilac-pink/"
+        },
+        {
+          "name": "Lute",
+          "hex": "#CBB486",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/lute/"
+        },
+        {
+          "name": "Trumpington",
+          "hex": "#E1B459",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/trumpington/"
+        },
+        {
+          "name": "Sang de Boeuf",
+          "hex": "#95594A",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/sang-de-boeuf/"
+        },
+        {
+          "name": "Ethereal Blue",
+          "hex": "#A4B5AF",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/ethereal-blue/"
+        },
+        {
+          "name": "Eau de Nile",
+          "hex": "#C9C6A9",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/eau-de-nile/"
+        },
+        {
+          "name": "Invisible Green",
+          "hex": "#7d9b5e",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/invisible-green/"
+        },
+        {
+          "name": "Portland",
+          "hex": "#E1D7C1",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/portland/"
+        },
+        {
+          "name": "Milk White",
+          "hex": "#E9DDC7",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/milk-white/"
+        },
+        {
+          "name": "Pure White",
+          "hex": "#fbfdff",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pure-white/"
+        },
+        {
+          "name": "Plain White",
+          "hex": "#f9f9f9",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/plain-white/"
+        },
+        {
+          "name": "Fair White",
+          "hex": "#f7f8f3",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/fair-white/"
+        },
+        {
+          "name": "Spanish White",
+          "hex": "#f5f7ee",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/spanish-white/"
+        },
+        {
+          "name": "Grace",
+          "hex": "#faf7ef",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/grace/"
+        },
+        {
+          "name": "White Lead",
+          "hex": "#FBF4E4",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/white-lead/"
+        },
+        {
+          "name": "Fine White",
+          "hex": "#F7EBD8",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/fine-white/"
+        },
+        {
+          "name": "Whiting",
+          "hex": "#ECE5D0",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/whiting/"
+        },
+        {
+          "name": "Creami Colour",
+          "hex": "#F0E7CD",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/creami-colour/"
+        },
+        {
+          "name": "Edinburgh White",
+          "hex": "#e9daba",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/edinburgh-white/"
+        },
+        {
+          "name": "Edinburgh White Light",
+          "hex": "#efe5ce",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/edinburgh-white-light/"
+        },
+        {
+          "name": "Stone White",
+          "hex": "#ECDFC6",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/stone-white/"
+        },
+        {
+          "name": "French Grey",
+          "hex": "#CAC2AD",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/french-grey/"
+        },
+        {
+          "name": "Paris Grey",
+          "hex": "#D7CBAE",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/paris-grey/"
+        },
+        {
+          "name": "Dove",
+          "hex": "#D6CFBA",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/dove/"
+        },
+        {
+          "name": "Water Glass",
+          "hex": "#eef1e9",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/water-glass/"
+        },
+        {
+          "name": "Teddy",
+          "hex": "#f9f9f9",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/teddy/"
+        },
+        {
+          "name": "Pearl Colour",
+          "hex": "#ECE5DB",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pearl-colour/"
+        },
+        {
+          "name": "Frankie",
+          "hex": "#fbefdd",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/frankie/"
+        },
+        {
+          "name": "Silver White",
+          "hex": "#E5DCCD",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/silver-white/"
+        },
+        {
+          "name": "Rose Tinted White",
+          "hex": "#E8DBCA",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/rose-tinted-white/"
+        },
+        {
+          "name": "Hector",
+          "hex": "#dfdcd3",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/hector/"
+        },
+        {
+          "name": "Fawn",
+          "hex": "#C4B194",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/fawn/"
+        },
+        {
+          "name": "Clay",
+          "hex": "#C0B7A5",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/clay/"
+        },
+        {
+          "name": "Flaxen Grey",
+          "hex": "#9F988C",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/flaxen-grey/"
+        },
+        {
+          "name": "Mouse Grey",
+          "hex": "#B1A89B",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/mouse-grey/"
+        },
+        {
+          "name": "Ash Grey",
+          "hex": "#B7AFA5",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/ash-grey/"
+        },
+        {
+          "name": "Pale Smoke Grey",
+          "hex": "#dfe0db",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pale-smoke-grey/"
+        },
+        {
+          "name": "Wash Stop",
+          "hex": "#D1CCC8",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/wash-stop/"
+        },
+        {
+          "name": "Fine Grey",
+          "hex": "#B8BCBD",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/fine-grey/"
+        },
+        {
+          "name": "Lead Colour",
+          "hex": "#B2AFAA",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/lead-colour/"
+        },
+        {
+          "name": "Sea Green",
+          "hex": "#9DB2A4",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/sea-green/"
+        },
+        {
+          "name": "Duck Egg",
+          "hex": "#C2CEC1",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/duck-egg/"
+        },
+        {
+          "name": "Bleu Turc",
+          "hex": "#d6eadf",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/bleu-turc/"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#c2c7c5",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/sky-blue/"
+        },
+        {
+          "name": "Welmish Blew",
+          "hex": "#bac6c2",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/welmish-blew/"
+        },
+        {
+          "name": "Aerial Tint",
+          "hex": "#A9B7B8",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/aerial-tint/"
+        },
+        {
+          "name": "Lucca",
+          "hex": "#e0e8e4",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/lucca/"
+        },
+        {
+          "name": "Inferior Grey",
+          "hex": "#9FA3A2",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/inferior-grey/"
+        },
+        {
+          "name": "Slate",
+          "hex": "#818383",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/slate/"
+        },
+        {
+          "name": "Cerullian Blue",
+          "hex": "#8F9B9F",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/cerullian-blue/"
+        },
+        {
+          "name": "Fair Blue",
+          "hex": "#A0B1C0",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/fair-blue/"
+        },
+        {
+          "name": "George",
+          "hex": "#9bbac5",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/george/"
+        },
+        {
+          "name": "Garter Blue",
+          "hex": "#87A4B3",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/garter-blue/"
+        },
+        {
+          "name": "French Blue",
+          "hex": "#819CAC",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/french-blue/"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "#626D7E",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/navy-blue/"
+        },
+        {
+          "name": "Indigo",
+          "hex": "#325c69",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/indigo/"
+        },
+        {
+          "name": "Tingry",
+          "hex": "#4e4e54",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/archived/tingry/"
+        },
+        {
+          "name": "Azurite",
+          "hex": "#5B8191",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/azurite/"
+        },
+        {
+          "name": "Saxony",
+          "hex": "#5a6f6c",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/palette-blenders/saxony/"
+        },
+        {
+          "name": "Vert de Mer",
+          "hex": "#6E9397",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/vert-de-mer/"
+        },
+        {
+          "name": "Olympian Green",
+          "hex": "#b1b55e",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/olympian-green/"
+        },
+        {
+          "name": "Light Olive Green",
+          "hex": "#818D75",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/light-olive-green/"
+        },
+        {
+          "name": "Drab Green",
+          "hex": "#75755D",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/drab-green/"
+        },
+        {
+          "name": "Fine Green",
+          "hex": "#66734f",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/palette-blenders/fine-green/"
+        },
+        {
+          "name": "Royal Grass Green",
+          "hex": "#768c36",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/royal-grass-green/"
+        },
+        {
+          "name": "Verdigris",
+          "hex": "#97B599",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/verdigris/"
+        },
+        {
+          "name": "Turquoise",
+          "hex": "#99C2B6",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/turquoise/"
+        },
+        {
+          "name": "Aquatic",
+          "hex": "#7F9A90",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/aquatic/"
+        },
+        {
+          "name": "Pippin",
+          "hex": "#bcb479",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pippin/"
+        },
+        {
+          "name": "Pea Green",
+          "hex": "#A5B687",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pea-green/"
+        },
+        {
+          "name": "Evie",
+          "hex": "#93ab7a",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/evie/"
+        },
+        {
+          "name": "Roger",
+          "hex": "#c2d9bc",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/roger/"
+        },
+        {
+          "name": "Tea Green",
+          "hex": "#A7AF90",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/tea-green/"
+        },
+        {
+          "name": "Brunswick Green Deep",
+          "hex": "#434f2b",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/archived/brunswick-green-deep/"
+        },
+        {
+          "name": "Granite Green",
+          "hex": "#ACAD8B",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/granite-green/"
+        },
+        {
+          "name": "Pomona",
+          "hex": "#c8d0b6",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pomona/"
+        },
+        {
+          "name": "Celadon",
+          "hex": "#dde7dd",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/celadon/"
+        },
+        {
+          "name": "Gladstone",
+          "hex": "#b6bba4",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/gladstone/"
+        },
+        {
+          "name": "Persian",
+          "hex": "#eeca71",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/persian/"
+        },
+        {
+          "name": "Naples Yellow",
+          "hex": "#f2d563",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/naples-yellow/"
+        },
+        {
+          "name": "Brimstone",
+          "hex": "#F5D58A",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/brimstone/"
+        },
+        {
+          "name": "Ochre",
+          "hex": "#F0D596",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/ochre/"
+        },
+        {
+          "name": "Patent Yellow",
+          "hex": "#F2DEA4",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/patent-yellow/"
+        },
+        {
+          "name": "Warm Stone",
+          "hex": "#E8D8A3",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/warm-stone/"
+        },
+        {
+          "name": "Quaker",
+          "hex": "#DCCCA5",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/quaker/"
+        },
+        {
+          "name": "Cinnamon",
+          "hex": "#C7A785",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/cinnamon/"
+        },
+        {
+          "name": "Florence",
+          "hex": "#f9e7b2",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/florence/"
+        },
+        {
+          "name": "Buff",
+          "hex": "#ead9b8",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/buff/"
+        },
+        {
+          "name": "Tawny",
+          "hex": "#C9B497",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/tawny/"
+        },
+        {
+          "name": "Chocolate",
+          "hex": "#957A65",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/chocolate/"
+        },
+        {
+          "name": "Mummy",
+          "hex": "#a98e71",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/mummy/"
+        },
+        {
+          "name": "Hawtrey",
+          "hex": "#9d753d",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/palette-blenders/hawtrey/"
+        },
+        {
+          "name": "Wainscoat",
+          "hex": "#80622b",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/palette-blenders/wainscoat/"
+        },
+        {
+          "name": "London Brown",
+          "hex": "#74544c",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/london-brown/"
+        },
+        {
+          "name": "Pompadour",
+          "hex": "#873948",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/pompadour/"
+        },
+        {
+          "name": "Brick",
+          "hex": "#C27A65",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/brick/"
+        },
+        {
+          "name": "Header",
+          "hex": "#f1a884",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/header/"
+        },
+        {
+          "name": "Hespan",
+          "hex": "#f8b489",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/hespan/"
+        },
+        {
+          "name": "Dutch Orange",
+          "hex": "#e0a068",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/dutch-orange/"
+        },
+        {
+          "name": "Malahide",
+          "hex": "#cc6a45",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/malahide/"
+        },
+        {
+          "name": "Red Ochre",
+          "hex": "#98554A",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/red-ochre/"
+        },
+        {
+          "name": "Etruscan Brown",
+          "hex": "#9C6B5D",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/etruscan-brown/"
+        },
+        {
+          "name": "Tyrian",
+          "hex": "#915e65",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/tyrian/"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#B19A9C",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/lavender/"
+        },
+        {
+          "name": "Laylock",
+          "hex": "#D2C1BD",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/laylock/"
+        },
+        {
+          "name": "Isabella",
+          "hex": "#c6b3b3",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/isabella/"
+        },
+        {
+          "name": "Nicaragua",
+          "hex": "#B88B88",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nicaragua/"
+        },
+        {
+          "name": "Kitty",
+          "hex": "#d8999e",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/kitty/"
+        },
+        {
+          "name": "Rose",
+          "hex": "#e7beba",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/rose/"
+        },
+        {
+          "name": "Jesse",
+          "hex": "#fbe4dd",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/nursery-paint/jesse/"
+        },
+        {
+          "name": "Mason Pink",
+          "hex": "#e2cabe",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/mason-pink/"
+        },
+        {
+          "name": "Cuisse de Nymphe Emue",
+          "hex": "#DDC2B3",
+          "link": "https://www.edwardbulmerpaint.co.uk/product/natural-paint/cuisse-de-nymphe-emue/"
+        }
+      ]
+    },
+    {
+      "name": "Lick",
+      "slug": "lick",
+      "shortname": "Lick",
+      "website": "https://www.lick.com",
+      "swatches": [
+        {
+          "name": "White 01",
+          "hex": "#f2f2eb",
+          "link": "https://www.lick.com/uk/product/white-01"
+        },
+        {
+          "name": "White 02",
+          "hex": "#eeeeee",
+          "link": "https://www.lick.com/uk/product/white-02"
+        },
+        {
+          "name": "White 03",
+          "hex": "#f3f1e5",
+          "link": "https://www.lick.com/uk/product/white-03"
+        },
+        {
+          "name": "White 04",
+          "hex": "#e8e8e8",
+          "link": "https://www.lick.com/uk/product/white-04"
+        },
+        {
+          "name": "White 05",
+          "hex": "#e7e0d0",
+          "link": "https://www.lick.com/uk/product/white-05"
+        },
+        {
+          "name": "White 06",
+          "hex": "#f0eae1",
+          "link": "https://www.lick.com/uk/product/white-06"
+        },
+        {
+          "name": "White 07",
+          "hex": "#ffffff",
+          "link": "https://www.lick.com/uk/product/white-07"
+        },
+        {
+          "name": "Beige 03",
+          "hex": "#dfdbcf",
+          "link": "https://www.lick.com/uk/product/beige-03"
+        },
+        {
+          "name": "Beige 01",
+          "hex": "#dbcfba",
+          "link": "https://www.lick.com/uk/product/beige-01"
+        },
+        {
+          "name": "Beige 02",
+          "hex": "#b6a18b",
+          "link": "https://www.lick.com/uk/product/beige-02"
+        },
+        {
+          "name": "Beige 09",
+          "hex": "#c6c0b5",
+          "link": "https://www.lick.com/uk/product/beige-09"
+        },
+        {
+          "name": "Beige 10",
+          "hex": "#b2ac9f",
+          "link": "https://www.lick.com/uk/product/beige-10"
+        },
+        {
+          "name": "Brown 02",
+          "hex": "#9f7655",
+          "link": "https://www.lick.com/uk/product/brown-02"
+        },
+        {
+          "name": "Taupe 02",
+          "hex": "#eae7e4",
+          "link": "https://www.lick.com/uk/product/taupe-02"
+        },
+        {
+          "name": "Taupe 03",
+          "hex": "#e3d4c4",
+          "link": "https://www.lick.com/uk/product/taupe-03"
+        },
+        {
+          "name": "Taupe 05",
+          "hex": "#b2aca4",
+          "link": "https://www.lick.com/uk/product/taupe-05"
+        },
+        {
+          "name": "Greige 02",
+          "hex": "#cdc7b8",
+          "link": "https://www.lick.com/uk/product/greige-02"
+        },
+        {
+          "name": "Greige 01",
+          "hex": "#c6bda9",
+          "link": "https://www.lick.com/uk/product/greige-01"
+        },
+        {
+          "name": "Greige 03",
+          "hex": "#7d7661",
+          "link": "https://www.lick.com/uk/product/greige-03"
+        },
+        {
+          "name": "Grey 01",
+          "hex": "#d4d5d0",
+          "link": "https://www.lick.com/uk/product/grey-01"
+        },
+        {
+          "name": "Grey 02",
+          "hex": "#d4d2cb",
+          "link": "https://www.lick.com/uk/product/grey-02"
+        },
+        {
+          "name": "Grey 03",
+          "hex": "#c9c6bf",
+          "link": "https://www.lick.com/uk/product/grey-03"
+        },
+        {
+          "name": "Grey 04",
+          "hex": "#b1b0a7",
+          "link": "https://www.lick.com/uk/product/grey-04"
+        },
+        {
+          "name": "Grey 14",
+          "hex": "#d9d7db",
+          "link": "https://www.lick.com/uk/product/grey-14"
+        },
+        {
+          "name": "Grey 15",
+          "hex": "#7c7c7c",
+          "link": "https://www.lick.com/uk/product/grey-15"
+        },
+        {
+          "name": "Grey 16",
+          "hex": "#7a7773",
+          "link": "https://www.lick.com/uk/product/grey-16"
+        },
+        {
+          "name": "Grey 17",
+          "hex": "#6c6f70",
+          "link": "https://www.lick.com/uk/product/grey-17"
+        },
+        {
+          "name": "Grey 18",
+          "hex": "#b2b2ad",
+          "link": "https://www.lick.com/uk/product/grey-18"
+        },
+        {
+          "name": "Grey 07",
+          "hex": "#616766",
+          "link": "https://www.lick.com/uk/product/grey-07"
+        },
+        {
+          "name": "Grey 08",
+          "hex": "#495459",
+          "link": "https://www.lick.com/uk/product/grey-08"
+        },
+        {
+          "name": "Green 06",
+          "hex": "#414842",
+          "link": "https://www.lick.com/uk/product/green-06"
+        },
+        {
+          "name": "Green 20",
+          "hex": "#3e5945",
+          "link": "https://www.lick.com/uk/product/green-20"
+        },
+        {
+          "name": "Green 05",
+          "hex": "#616044",
+          "link": "https://www.lick.com/uk/product/green-05"
+        },
+        {
+          "name": "Green 19",
+          "hex": "#7f7a5f",
+          "link": "https://www.lick.com/uk/product/green-19"
+        },
+        {
+          "name": "Green 04",
+          "hex": "#647a74",
+          "link": "https://www.lick.com/uk/product/green-04"
+        },
+        {
+          "name": "Green 03",
+          "hex": "#6f7a76",
+          "link": "https://www.lick.com/uk/product/green-03"
+        },
+        {
+          "name": "Green 02",
+          "hex": "#8a9082",
+          "link": "https://www.lick.com/uk/product/green-02"
+        },
+        {
+          "name": "Green 18",
+          "hex": "#919b6d",
+          "link": "https://www.lick.com/uk/product/green-18"
+        },
+        {
+          "name": "Green 07",
+          "hex": "#508351",
+          "link": "https://www.lick.com/uk/product/green-07"
+        },
+        {
+          "name": "Green 08",
+          "hex": "#a2c3af",
+          "link": "https://www.lick.com/uk/product/green-08"
+        },
+        {
+          "name": "Green 14",
+          "hex": "#a1b392",
+          "link": "https://www.lick.com/uk/product/green-14"
+        },
+        {
+          "name": "Green 13",
+          "hex": "#b9ccae",
+          "link": "https://www.lick.com/uk/product/green-13"
+        },
+        {
+          "name": "Green 01",
+          "hex": "#b9b9a3",
+          "link": "https://www.lick.com/uk/product/green-01"
+        },
+        {
+          "name": "Green 09",
+          "hex": "#c6cdbf",
+          "link": "https://www.lick.com/uk/product/green-09"
+        },
+        {
+          "name": "Blue 14",
+          "hex": "#e7eef5",
+          "link": "https://www.lick.com/uk/product/blue-14"
+        },
+        {
+          "name": "Blue 02",
+          "hex": "#d3dbd9",
+          "link": "https://www.lick.com/uk/product/blue-02"
+        },
+        {
+          "name": "Blue 01",
+          "hex": "#c9cfca",
+          "link": "https://www.lick.com/uk/product/blue-01"
+        },
+        {
+          "name": "Blue 03",
+          "hex": "#becabf",
+          "link": "https://www.lick.com/uk/product/blue-03"
+        },
+        {
+          "name": "Blue 13",
+          "hex": "#a2b9b6",
+          "link": "https://www.lick.com/uk/product/blue-13"
+        },
+        {
+          "name": "Blue 09",
+          "hex": "#aed4c8",
+          "link": "https://www.lick.com/uk/product/blue-09"
+        },
+        {
+          "name": "Blue 08",
+          "hex": "#abccd3",
+          "link": "https://www.lick.com/uk/product/blue-08"
+        },
+        {
+          "name": "Blue 15",
+          "hex": "#cadbe1",
+          "link": "https://www.lick.com/uk/product/blue-15"
+        },
+        {
+          "name": "Blue 04",
+          "hex": "#9cb7c5",
+          "link": "https://www.lick.com/uk/product/blue-04"
+        },
+        {
+          "name": "Blue 17",
+          "hex": "#8398a5",
+          "link": "https://www.lick.com/uk/product/blue-17"
+        },
+        {
+          "name": "Blue 18",
+          "hex": "#7593a6",
+          "link": "https://www.lick.com/uk/product/blue-18"
+        },
+        {
+          "name": "Blue 05",
+          "hex": "#547f9c",
+          "link": "https://www.lick.com/uk/product/blue-05"
+        },
+        {
+          "name": "Blue 10",
+          "hex": "#729ece",
+          "link": "https://www.lick.com/uk/product/blue-10"
+        },
+        {
+          "name": "Blue 19",
+          "hex": "#4e7abb",
+          "link": "https://www.lick.com/uk/product/blue-19"
+        },
+        {
+          "name": "Blue 111",
+          "hex": "#1a4677",
+          "link": "https://www.lick.com/uk/product/blue-111"
+        },
+        {
+          "name": "Blue 06",
+          "hex": "#4c5f6b",
+          "link": "https://www.lick.com/uk/product/blue-06"
+        },
+        {
+          "name": "Blue 07",
+          "hex": "#3d4f56",
+          "link": "https://www.lick.com/uk/product/blue-07"
+        },
+        {
+          "name": "Teal 04",
+          "hex": "#96b5a9",
+          "link": "https://www.lick.com/uk/product/teal-04"
+        },
+        {
+          "name": "Teal 05",
+          "hex": "#6e8d7f",
+          "link": "https://www.lick.com/uk/product/teal-05"
+        },
+        {
+          "name": "Teal 06",
+          "hex": "#4b8b86",
+          "link": "https://www.lick.com/uk/product/teal-06"
+        },
+        {
+          "name": "Teal 01",
+          "hex": "#8a9a97",
+          "link": "https://www.lick.com/uk/product/teal-01"
+        },
+        {
+          "name": "Teal 02",
+          "hex": "#778384",
+          "link": "https://www.lick.com/uk/product/teal-02"
+        },
+        {
+          "name": "Teal 03",
+          "hex": "#596869",
+          "link": "https://www.lick.com/uk/product/teal-03"
+        },
+        {
+          "name": "Yellow 05",
+          "hex": "#fffcd6",
+          "link": "https://www.lick.com/uk/product/yellow-05"
+        },
+        {
+          "name": "Yellow 01",
+          "hex": "#f5e6a3",
+          "link": "https://www.lick.com/uk/product/yellow-01"
+        },
+        {
+          "name": "Yellow 06",
+          "hex": "#ffe887",
+          "link": "https://www.lick.com/uk/product/yellow-06"
+        },
+        {
+          "name": "Yellow 08",
+          "hex": "#f1d893",
+          "link": "https://www.lick.com/uk/product/yellow-08"
+        },
+        {
+          "name": "Yellow 07",
+          "hex": "#e9d39f",
+          "link": "https://www.lick.com/uk/product/yellow-07"
+        },
+        {
+          "name": "Yellow 03",
+          "hex": "#e8be62",
+          "link": "https://www.lick.com/uk/product/yellow-03"
+        },
+        {
+          "name": "Yellow 02",
+          "hex": "#dda865",
+          "link": "https://www.lick.com/uk/product/yellow-02"
+        },
+        {
+          "name": "Orange 05",
+          "hex": "#e1a07a",
+          "link": "https://www.lick.com/uk/product/orange-05"
+        },
+        {
+          "name": "Orange 03",
+          "hex": "#cd9973",
+          "link": "https://www.lick.com/uk/product/orange-03"
+        },
+        {
+          "name": "Orange 04",
+          "hex": "#ce7d53",
+          "link": "https://www.lick.com/uk/product/orange-04"
+        },
+        {
+          "name": "Orange 02",
+          "hex": "#b27549",
+          "link": "https://www.lick.com/uk/product/orange-02"
+        },
+        {
+          "name": "Orange 01",
+          "hex": "#e05523",
+          "link": "https://www.lick.com/uk/product/orange-01"
+        },
+        {
+          "name": "Red 06",
+          "hex": "#764a4a",
+          "link": "https://www.lick.com/uk/product/red-06"
+        },
+        {
+          "name": "Red 02",
+          "hex": "#a4493e",
+          "link": "https://www.lick.com/uk/product/red-02"
+        },
+        {
+          "name": "Red 01",
+          "hex": "#a06457",
+          "link": "https://www.lick.com/uk/product/red-01"
+        },
+        {
+          "name": "Red 03",
+          "hex": "#c3867b",
+          "link": "https://www.lick.com/uk/product/red-03"
+        },
+        {
+          "name": "Pink 01",
+          "hex": "#ede2d7",
+          "link": "https://www.lick.com/uk/product/pink-01"
+        },
+        {
+          "name": "Pink 04",
+          "hex": "#f3e0e4",
+          "link": "https://www.lick.com/uk/product/pink-04"
+        },
+        {
+          "name": "Pink 02",
+          "hex": "#e9d2bf",
+          "link": "https://www.lick.com/uk/product/pink-02"
+        },
+        {
+          "name": "Pink 07",
+          "hex": "#dfcfcb",
+          "link": "https://www.lick.com/uk/product/pink-07"
+        },
+        {
+          "name": "Pink 08",
+          "hex": "#c2a79c",
+          "link": "https://www.lick.com/uk/product/pink-08"
+        },
+        {
+          "name": "Pink 13",
+          "hex": "#daafa2",
+          "link": "https://www.lick.com/uk/product/pink-13"
+        },
+        {
+          "name": "Pink 03",
+          "hex": "#e2c6c4",
+          "link": "https://www.lick.com/uk/product/pink-03"
+        },
+        {
+          "name": "Pink 05",
+          "hex": "#d8b9b8",
+          "link": "https://www.lick.com/uk/product/pink-05"
+        },
+        {
+          "name": "Pink 09",
+          "hex": "#c9a19d",
+          "link": "https://www.lick.com/uk/product/pink-09"
+        },
+        {
+          "name": "Pink 12",
+          "hex": "#d6898d",
+          "link": "https://www.lick.com/uk/product/pink-12"
+        },
+        {
+          "name": "Purple 05",
+          "hex": "#f6f3f1",
+          "link": "https://www.lick.com/uk/product/purple-05"
+        },
+        {
+          "name": "Purple 06",
+          "hex": "#dbd2d8",
+          "link": "https://www.lick.com/uk/product/purple-06"
+        },
+        {
+          "name": "Purple 01",
+          "hex": "#ab9a9f",
+          "link": "https://www.lick.com/uk/product/purple-01"
+        },
+        {
+          "name": "Purple 03",
+          "hex": "#432d2e",
+          "link": "https://www.lick.com/uk/product/purple-03"
+        },
+        {
+          "name": "Black 01",
+          "hex": "#444a4c",
+          "link": "https://www.lick.com/uk/product/black-01"
+        },
+        {
+          "name": "Black 02",
+          "hex": "#3c3c3c",
+          "link": "https://www.lick.com/uk/product/black-02"
+        }
+      ]
+    },
+    {
+      "name": "Coat",
+      "slug": "coat",
+      "shortname": "Coat",
+      "website": "https://www.coat.com",
+      "swatches": [
+        {
+          "name": "Screenshot",
+          "hex": "#FFFFFF",
+          "link": "https://coatpaints.com/products/screenshot-flat-matt"
+        },
+        {
+          "name": "Fresh Start",
+          "hex": "#eeefee",
+          "link": "https://coatpaints.com/products/fresh-start-flat-matt"
+        },
+        {
+          "name": "Ghosted",
+          "hex": "#F2F4F4",
+          "link": "https://coatpaints.com/products/ghosted-flat-matt"
+        },
+        {
+          "name": "Just, Barely",
+          "hex": "#e8e6e2",
+          "link": "https://coatpaints.com/products/just-barely-flat-matt"
+        },
+        {
+          "name": "Low Salt",
+          "hex": "#eeefee",
+          "link": "https://coatpaints.com/products/low-salt-flat-matt"
+        },
+        {
+          "name": "Jojo's White",
+          "hex": "#E2DCD6",
+          "link": "https://coatpaints.com/products/jojos-white-flat-matt"
+        },
+        {
+          "name": "Algorithm",
+          "hex": "#e4e4e5",
+          "link": "https://coatpaints.com/products/algorithm-flat-matt"
+        },
+        {
+          "name": "Sweatpants",
+          "hex": "#e3e3de",
+          "link": "https://coatpaints.com/products/sweatpants-flat-matt"
+        },
+        {
+          "name": "On Mute",
+          "hex": "#d3d6d6",
+          "link": "https://coatpaints.com/products/on-mute-flat-matt"
+        },
+        {
+          "name": "Margot",
+          "hex": "#CFC8C1",
+          "link": "https://coatpaints.com/products/margot-flat-matt"
+        },
+        {
+          "name": "The Coal Drop",
+          "hex": "#646a65",
+          "link": "https://coatpaints.com/products/the-coal-drop-flat-matt"
+        },
+        {
+          "name": "Big Timer",
+          "hex": "#9E9793",
+          "link": "https://coatpaints.com/products/big-timer-flat-matt"
+        },
+        {
+          "name": "The Record Store",
+          "hex": "#404140",
+          "link": "https://coatpaints.com/products/the-record-store-flat-matt"
+        },
+        {
+          "name": "David Rose",
+          "hex": "#36393e",
+          "link": "https://coatpaints.com/products/david-rose-flat-matt"
+        },
+        {
+          "name": "Nada",
+          "hex": "#F0EDE7",
+          "link": "https://coatpaints.com/products/nada-flat-matt"
+        },
+        {
+          "name": "Modest",
+          "hex": "#eee9e4",
+          "link": "https://coatpaints.com/products/modest-flat-matt"
+        },
+        {
+          "name": "Mindful",
+          "hex": "#eee8e0",
+          "link": "https://coatpaints.com/products/mindful-flat-matt"
+        },
+        {
+          "name": "Good Intentions",
+          "hex": "#DBD5CC",
+          "link": "https://coatpaints.com/products/good-intentions-flat-matt"
+        },
+        {
+          "name": "Sunday Soul",
+          "hex": "#cbc3ba",
+          "link": "https://coatpaints.com/products/sunday-soul-flat-matt"
+        },
+        {
+          "name": "Cold Brew",
+          "hex": "#A5978D",
+          "link": "https://coatpaints.com/products/cold-brew-flat-matt"
+        },
+        {
+          "name": "Gumption",
+          "hex": "#47393A",
+          "link": "https://coatpaints.com/products/gumption-flat-matt"
+        },
+        {
+          "name": "Paper Plane",
+          "hex": "#EEEBE4",
+          "link": "https://coatpaints.com/products/paper-plane-flat-matt"
+        },
+        {
+          "name": "Pampas",
+          "hex": "#E8E6DA",
+          "link": "https://coatpaints.com/products/pampas-flat-matt"
+        },
+        {
+          "name": "Tuesday's Child",
+          "hex": "#e7e0d1",
+          "link": "https://coatpaints.com/products/tuesdays-child-flat-matt"
+        },
+        {
+          "name": "Home Is",
+          "hex": "#D0C8BF",
+          "link": "https://coatpaints.com/products/home-is-flat-matt"
+        },
+        {
+          "name": "Cargo",
+          "hex": "#C7BCAB",
+          "link": "https://coatpaints.com/products/cargo-flat-matt"
+        },
+        {
+          "name": "Debate Club",
+          "hex": "#b0a18c",
+          "link": "https://coatpaints.com/products/debate-club-flat-matt"
+        },
+        {
+          "name": "Hardback",
+          "hex": "#4E433A",
+          "link": "https://coatpaints.com/products/hardback-flat-matt"
+        },
+        {
+          "name": "Naptime",
+          "hex": "#e6e1d5",
+          "link": "https://coatpaints.com/products/naptime-flat-matt"
+        },
+        {
+          "name": "Off Script",
+          "hex": "#e2d8c9",
+          "link": "https://coatpaints.com/products/off-script-flat-matt"
+        },
+        {
+          "name": "Camber",
+          "hex": "#d7cbbb",
+          "link": "https://coatpaints.com/products/camber-flat-matt"
+        },
+        {
+          "name": "Well Grounded",
+          "hex": "#d9cdb6",
+          "link": "https://coatpaints.com/products/well-grounded-flat-matt"
+        },
+        {
+          "name": "Rooted",
+          "hex": "#bdad9a",
+          "link": "https://coatpaints.com/products/rooted-flat-matt"
+        },
+        {
+          "name": "Percolate",
+          "hex": "#917c66",
+          "link": "https://coatpaints.com/products/percolate-flat-matt"
+        },
+        {
+          "name": "Sheldon",
+          "hex": "#6b5545",
+          "link": "https://coatpaints.com/products/sheldon-flat-matt"
+        },
+        {
+          "name": "Cat's Cradle",
+          "hex": "#F3EDE4",
+          "link": "https://coatpaints.com/products/cats-cradle-flat-matt"
+        },
+        {
+          "name": "Amateur Ceramics",
+          "hex": "#E9D8C9",
+          "link": "https://coatpaints.com/products/amateur-ceramics-flat-matt"
+        },
+        {
+          "name": "Weekender",
+          "hex": "#dec9b8",
+          "link": "https://coatpaints.com/products/weekender-flat-matt"
+        },
+        {
+          "name": "Pudding",
+          "hex": "#d3c2b2",
+          "link": "https://coatpaints.com/products/pudding-flat-matt"
+        },
+        {
+          "name": "Out Of Office",
+          "hex": "#D7C1AF",
+          "link": "https://coatpaints.com/products/out-of-office-flat-matt"
+        },
+        {
+          "name": "Corked",
+          "hex": "#b39b8a",
+          "link": "https://coatpaints.com/products/corked-flat-matt"
+        },
+        {
+          "name": "Buon Fresco",
+          "hex": "#B59C8A",
+          "link": "https://coatpaints.com/products/buon-fresco-flat-matt"
+        },
+        {
+          "name": "Safe Play",
+          "hex": "#EEE9DF",
+          "link": "https://coatpaints.com/products/safe-play-flat-matt"
+        },
+        {
+          "name": "Sweater Season",
+          "hex": "#d9cec1",
+          "link": "https://coatpaints.com/products/sweater-season-flat-matt"
+        },
+        {
+          "name": "Duvet Day",
+          "hex": "#e2daca",
+          "link": "https://coatpaints.com/products/duvet-day-flat-matt"
+        },
+        {
+          "name": "Humble",
+          "hex": "#EADDC7",
+          "link": "https://coatpaints.com/products/humble-flat-matt"
+        },
+        {
+          "name": "Cake Mix",
+          "hex": "#d2bea2",
+          "link": "https://coatpaints.com/products/cake-mix-flat-matt"
+        },
+        {
+          "name": "Gwen",
+          "hex": "#bda17e",
+          "link": "https://coatpaints.com/products/gwen-flat-matt"
+        },
+        {
+          "name": "Dalston Chat",
+          "hex": "#a7937a",
+          "link": "https://coatpaints.com/products/dalston-chat-flat-matt"
+        },
+        {
+          "name": "No Offence",
+          "hex": "#fffff3",
+          "link": "https://coatpaints.com/products/no-offence-flat-matt"
+        },
+        {
+          "name": "Jane",
+          "hex": "#fffae4",
+          "link": "https://coatpaints.com/products/jane-flat-matt"
+        },
+        {
+          "name": "Cheap Soufflé",
+          "hex": "#efdcbe",
+          "link": "https://coatpaints.com/products/cheap-souffle-flat-matt"
+        },
+        {
+          "name": "Arctic Roll",
+          "hex": "#f3d39f",
+          "link": "https://coatpaints.com/products/arctic-roll-flat-matt"
+        },
+        {
+          "name": "Ziggy's Yellow",
+          "hex": "#deb77c",
+          "link": "https://coatpaints.com/products/ziggys-yellow-flat-matt"
+        },
+        {
+          "name": "House Points",
+          "hex": "#DAA75B",
+          "link": "https://coatpaints.com/products/house-points-flat-matt"
+        },
+        {
+          "name": "Big Hoops",
+          "hex": "#967858",
+          "link": "https://coatpaints.com/products/big-hoops-flat-matt"
+        },
+        {
+          "name": "Kimchee Fan",
+          "hex": "#F3E6DC",
+          "link": "https://coatpaints.com/products/kimchee-fan-flat-matt"
+        },
+        {
+          "name": "Felt Cute",
+          "hex": "#fbebdc",
+          "link": "https://coatpaints.com/products/felt-cute-flat-matt"
+        },
+        {
+          "name": "Factor Fifty",
+          "hex": "#DFC2AE",
+          "link": "https://coatpaints.com/products/factor-fifty-flat-matt"
+        },
+        {
+          "name": "Sybil",
+          "hex": "#c1a18c",
+          "link": "https://coatpaints.com/products/sybil-flat-matt"
+        },
+        {
+          "name": "Baked",
+          "hex": "#C18469",
+          "link": "https://coatpaints.com/products/baked-flat-matt"
+        },
+        {
+          "name": "Spanked",
+          "hex": "#a36a56",
+          "link": "https://coatpaints.com/products/spanked-flat-matt"
+        },
+        {
+          "name": "Mezcal",
+          "hex": "#b16936",
+          "link": "https://coatpaints.com/products/mezcal-flat-matt"
+        },
+        {
+          "name": "Downtime",
+          "hex": "#F2EEEB",
+          "link": "https://coatpaints.com/products/downtime-flat-matt"
+        },
+        {
+          "name": "Reverie",
+          "hex": "#decabc",
+          "link": "https://coatpaints.com/products/reverie-flat-matt"
+        },
+        {
+          "name": "Piglet",
+          "hex": "#cbaf9d",
+          "link": "https://coatpaints.com/products/piglet-flat-matt"
+        },
+        {
+          "name": "Persipan",
+          "hex": "#DAB19F",
+          "link": "https://coatpaints.com/products/persipan-flat-matt"
+        },
+        {
+          "name": "La Torre",
+          "hex": "#986c63",
+          "link": "https://coatpaints.com/products/la-torre-flat-matt"
+        },
+        {
+          "name": "Yes Chef",
+          "hex": "#97554D",
+          "link": "https://coatpaints.com/products/yes-chef-flat-matt"
+        },
+        {
+          "name": "Smith & The Devil",
+          "hex": "#70423f",
+          "link": "https://coatpaints.com/products/smith-and-the-devil-flat-matt"
+        },
+        {
+          "name": "Pablo",
+          "hex": "#eeeae4",
+          "link": "https://coatpaints.com/products/pablo-flat-matt"
+        },
+        {
+          "name": "Axolotl",
+          "hex": "#e8dfdc",
+          "link": "https://coatpaints.com/products/axolotl-flat-matt"
+        },
+        {
+          "name": "Granny Chic",
+          "hex": "#eee0db",
+          "link": "https://coatpaints.com/products/granny-chic-flat-matt"
+        },
+        {
+          "name": "Ciao, Sofia",
+          "hex": "#d3beb9",
+          "link": "https://coatpaints.com/products/ciao-sofia-flat-matt"
+        },
+        {
+          "name": "Mrs. Bouquet",
+          "hex": "#a07970",
+          "link": "https://coatpaints.com/products/mrs-bouquet-flat-matt"
+        },
+        {
+          "name": "Old Street",
+          "hex": "#8C6556",
+          "link": "https://coatpaints.com/products/old-street-flat-matt"
+        },
+        {
+          "name": "Brasserie Brown",
+          "hex": "#4e383a",
+          "link": "https://coatpaints.com/products/brasserie-brown-flat-matt"
+        },
+        {
+          "name": "Slept Through",
+          "hex": "#DFE6EF",
+          "link": "https://coatpaints.com/products/slept-through-flat-matt"
+        },
+        {
+          "name": "The Good China",
+          "hex": "#D3E1E3",
+          "link": "https://coatpaints.com/products/the-good-china-flat-matt"
+        },
+        {
+          "name": "Lie-in",
+          "hex": "#aebec5",
+          "link": "https://coatpaints.com/products/lie-in-flat-matt"
+        },
+        {
+          "name": "Below Deck",
+          "hex": "#728d9e",
+          "link": "https://coatpaints.com/products/below-deck-flat-matt"
+        },
+        {
+          "name": "All Inclusive",
+          "hex": "#5e7280",
+          "link": "https://coatpaints.com/products/all-inclusive-flat-matt"
+        },
+        {
+          "name": "The Establishment",
+          "hex": "#385367",
+          "link": "https://coatpaints.com/products/the-establishment-flat-matt"
+        },
+        {
+          "name": "2AM",
+          "hex": "#414753",
+          "link": "https://coatpaints.com/products/2am-flat-matt"
+        },
+        {
+          "name": "Voicenotes",
+          "hex": "#DBE7E4",
+          "link": "https://coatpaints.com/products/voicenotes-flat-matt"
+        },
+        {
+          "name": "Free Range",
+          "hex": "#c4dad8",
+          "link": "https://coatpaints.com/products/free-range-flat-matt"
+        },
+        {
+          "name": "Hamilton",
+          "hex": "#a8bdb7",
+          "link": "https://coatpaints.com/products/hamilton-flat-matt"
+        },
+        {
+          "name": "Mr. Clifton",
+          "hex": "#73898e",
+          "link": "https://coatpaints.com/products/mr-clifton-flat-matt"
+        },
+        {
+          "name": "Adulting",
+          "hex": "#617470",
+          "link": "https://coatpaints.com/products/adulting-flat-matt"
+        },
+        {
+          "name": "The Drink",
+          "hex": "#3d5058",
+          "link": "https://coatpaints.com/products/the-drink-flat-matt"
+        },
+        {
+          "name": "Dodie",
+          "hex": "#50555A",
+          "link": "https://coatpaints.com/products/dodie-flat-matt"
+        },
+        {
+          "name": "100% Maybe",
+          "hex": "#ebe7df",
+          "link": "https://coatpaints.com/products/100-maybe-flat-matt"
+        },
+        {
+          "name": "Me Time",
+          "hex": "#EDECE5",
+          "link": "https://coatpaints.com/products/me-time-flat-matt"
+        },
+        {
+          "name": "Ujjayi",
+          "hex": "#E5E8E3",
+          "link": "https://coatpaints.com/products/ujjayi-flat-matt"
+        },
+        {
+          "name": "Tonic",
+          "hex": "#E4E8E2",
+          "link": "https://coatpaints.com/products/tonic-flat-matt"
+        },
+        {
+          "name": "Kind Regards",
+          "hex": "#e0e0d4",
+          "link": "https://coatpaints.com/products/kind-regards-flat-matt"
+        },
+        {
+          "name": "Rathbone Place",
+          "hex": "#D9DAD2",
+          "link": "https://coatpaints.com/products/rathbone-place-flat-matt"
+        },
+        {
+          "name": "Hello Vera",
+          "hex": "#D8D9C5",
+          "link": "https://coatpaints.com/products/hello-vera-flat-matt"
+        },
+        {
+          "name": "Detox",
+          "hex": "#d1d5cb",
+          "link": "https://coatpaints.com/products/detox-flat-matt"
+        },
+        {
+          "name": "Yard Party",
+          "hex": "#C0C2B4",
+          "link": "https://coatpaints.com/products/yard-party-flat-matt"
+        },
+        {
+          "name": "The Trail",
+          "hex": "#B4B3A7",
+          "link": "https://coatpaints.com/products/the-trail-flat-matt"
+        },
+        {
+          "name": "And Breathe",
+          "hex": "#cbc5b1",
+          "link": "https://coatpaints.com/products/and-breathe-flat-matt"
+        },
+        {
+          "name": "Home Grown",
+          "hex": "#b9c5b1",
+          "link": "https://coatpaints.com/products/home-grown-flat-matt"
+        },
+        {
+          "name": "Next Tuesday",
+          "hex": "#aead9c",
+          "link": "https://coatpaints.com/products/next-tuesday-flat-matt"
+        },
+        {
+          "name": "Sonder",
+          "hex": "#9c9e92",
+          "link": "https://coatpaints.com/products/sonder-flat-matt"
+        },
+        {
+          "name": "Ode to Toad",
+          "hex": "#b6ae91",
+          "link": "https://coatpaints.com/products/ode-to-toad-flat-matt"
+        },
+        {
+          "name": "Mansard",
+          "hex": "#697a6c",
+          "link": "https://coatpaints.com/products/mansard-flat-matt"
+        },
+        {
+          "name": "Park Life",
+          "hex": "#969B8A",
+          "link": "https://coatpaints.com/products/park-life-flat-matt"
+        },
+        {
+          "name": "Jojo's Green",
+          "hex": "#8d8c7c",
+          "link": "https://coatpaints.com/products/jojos-green-flat-matt"
+        },
+        {
+          "name": "Pan",
+          "hex": "#857d5b",
+          "link": "https://coatpaints.com/products/pan-flat-matt"
+        },
+        {
+          "name": "Retrograde",
+          "hex": "#717a6e",
+          "link": "https://coatpaints.com/products/retrograde-flat-matt"
+        },
+        {
+          "name": "Jonah",
+          "hex": "#7d7e6e",
+          "link": "https://coatpaints.com/products/jonah-flat-matt"
+        },
+        {
+          "name": "Darlington",
+          "hex": "#9A9588",
+          "link": "https://coatpaints.com/products/darlington-flat-matt"
+        },
+        {
+          "name": "The Tobacconist",
+          "hex": "#62502a",
+          "link": "https://coatpaints.com/products/the-tobacconist-flat-matt"
+        },
+        {
+          "name": "Brewer",
+          "hex": "#454E47",
+          "link": "https://coatpaints.com/products/brewer-flat-matt"
+        },
+        {
+          "name": "Nomad",
+          "hex": "#656a5e",
+          "link": "https://coatpaints.com/products/nomad-flat-matt"
+        },
+        {
+          "name": "The Ranger",
+          "hex": "#4c4841",
+          "link": "https://coatpaints.com/products/the-ranger-flat-matt"
+        },
+        {
+          "name": "Rocky",
+          "hex": "#5f584c",
+          "link": "https://coatpaints.com/products/rocky-flat-matt"
+        },
+        {
+          "name": "Ditch the Tie",
+          "hex": "#3b564d",
+          "link": "https://coatpaints.com/products/ditch-the-tie-flat-matt"
+        }
+      ]
+    }
+  ]
+}

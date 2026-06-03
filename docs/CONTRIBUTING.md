@@ -1,0 +1,227 @@
+# Contributing: Adding Paint Swatches
+
+**How to add new paint colors to the Paint Swatcher plugin.**
+
+---
+
+## Current Workflow (Manual Data Entry)
+
+This is the primary method for adding swatches. It's straightforward and works well for occasional updates.
+
+### Quick Start
+
+1. **Open** `scripts/initial-data.json`
+2. **Find** the brand section (e.g., "Farrow & Ball")
+3. **Add** a new swatch object to the `swatches` array:
+   ```json
+   {
+     "name": "Hague Blue",
+     "hex": "#0a3161",
+     "link": "https://www.farrow-ball.com/paint/hague-blue",
+     "productCode": "10",
+     "notes": "A deep blue-grey"
+   }
+   ```
+   - Required fields: `name`, `hex`, `link`
+   - Optional fields: `productCode`, `notes`
+
+4. **Seed the database**
+   ```bash
+   npm run seed -- --file scripts/initial-data.json
+   ```
+
+5. **Build the plugin**
+   ```bash
+   npm run build
+   ```
+
+6. **Test in FigJam**
+   - Plugins → Manage plugins → Development → Select manifest.json
+   - Run plugin and search for the new color
+
+7. **Commit**
+   ```bash
+   git add scripts/initial-data.json CHANGELOG.md
+   git commit -m "Add [Brand Name] swatches"
+   ```
+
+---
+
+## Hex Color Format
+
+All hex codes are automatically **normalized to lowercase with `#` prefix** during seeding:
+- `#0A3161` → `#0a3161`
+- `0a3161` → `#0a3161`
+
+No manual formatting needed.
+
+---
+
+## Batch Importing Multiple Swatches
+
+Create or append a JSON file with multiple brands/swatches:
+
+```json
+{
+  "brands": [
+    {
+      "name": "Brand Name",
+      "slug": "brand-slug",
+      "shortname": "BS",
+      "website": "https://...",
+      "swatches": [
+        { "name": "Color 1", "hex": "#...", "link": "..." },
+        { "name": "Color 2", "hex": "#...", "link": "..." }
+      ]
+    }
+  ]
+}
+```
+
+Then seed from that file:
+```bash
+npm run seed -- --file your-import.json
+npm run build
+```
+
+**Note**: Seeding merges with existing database. Brands matched by `slug`; duplicate swatches are skipped.
+
+---
+
+## Database Maintenance
+
+### View database contents
+
+```bash
+sqlite3 paint-swatcher.db
+
+# Inside sqlite3:
+SELECT COUNT(*) FROM swatches;
+SELECT * FROM brands;
+SELECT * FROM swatches WHERE name LIKE '%hague%';
+```
+
+### Reset database
+
+```bash
+rm paint-swatcher.db
+npm run seed -- --file scripts/initial-data.json
+```
+
+### Backup before major changes
+
+```bash
+cp paint-swatcher.db paint-swatcher.db.backup-$(date +%Y%m%d)
+```
+
+---
+
+## Future: Automated Scraping (Reference Only)
+
+These patterns are documented for future implementation. Currently, manual data entry is the standard workflow.
+
+### Browser Console Method
+
+For simple color grids, extract via browser console:
+
+```javascript
+// Example: Extract color list
+const swatches = Array.from(document.querySelectorAll('.color-swatch')).map(el => ({
+  name: el.querySelector('.color-name')?.textContent.trim(),
+  hex: el.style.backgroundColor,
+  link: el.querySelector('a')?.href
+}));
+console.log(JSON.stringify(swatches, null, 2));
+```
+
+**See** `docs/scrapers/` for brand-specific console snippet examples.
+
+### Puppeteer Automation (Advanced)
+
+For dynamically-loaded or complex pages:
+
+```typescript
+import puppeteer from 'puppeteer'
+
+async function scrapeColors(url: string) {
+  const browser = await puppeteer.launch()
+  const page = await browser.newPage()
+  await page.goto(url)
+
+  const swatches = await page.evaluate(() => {
+    return Array.from(document.querySelectorAll('.color')).map(el => ({
+      name: el.textContent,
+      hex: el.dataset.hex,
+      link: window.location.href
+    }))
+  })
+
+  await browser.close()
+  return swatches
+}
+```
+
+**Status**: Not yet implemented. To add this:
+1. Install `puppeteer`
+2. Create `scripts/scrape-[brand].ts` following the pattern
+3. Run to generate JSON
+4. Import via batch workflow above
+
+### Image-Based Extraction (Deferred)
+
+For sites that render colors as images without accessible hex values:
+
+1. Download color swatches as images
+2. Use image processing (e.g., `jimp`, `sharp`) to extract dominant color
+3. Convert to hex
+4. Generate seed JSON
+
+**Status**: Deferred. Requires image storage/hosting decisions. Document if needed.
+
+---
+
+## Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| "UNIQUE constraint failed" during seeding | Duplicate in seed JSON. Check `(brandId, collectionId, name)` uniqueness. |
+| Plugin doesn't show new swatches | Run `npm run build` to regenerate swatches and re-bundle. |
+| Hex colors not rendering | Verify hex codes are valid (6 or 8 digits). Check `sqlite3 paint-swatcher.db`. |
+| Build fails with "module not found" | Run `npm install` to ensure dependencies. |
+
+---
+
+## File Reference
+
+**Edit these:**
+- `scripts/initial-data.json` — Primary swatch data source
+
+**Generated automatically (do not edit):**
+- `src/data/swatches.ts` — Export from database, regenerated on each build
+- `paint-swatcher.db` — SQLite database, generated by seeder
+- `code.js` — Final plugin bundle
+
+**Reference only:**
+- `docs/scrapers/*.js` — Brand-specific scraper examples (for inspiration)
+- `docs/reference/` — Historical scripts and migration patterns
+
+---
+
+## If You Return Later
+
+1. Check `CHANGELOG.md` for recent changes
+2. Review `docs/ARCHITECTURE.md` for overall flow
+3. Review `docs/DATABASE.md` for schema details
+4. Update `scripts/initial-data.json`
+5. Run `npm run seed -- --file scripts/initial-data.json`
+6. Run `npm run build`
+7. Test in FigJam
+
+---
+
+## Questions or New Patterns?
+
+If you develop a new scraping pattern:
+- Add an example to `docs/scrapers/`
+- Create a helper script in `scripts/` (e.g., `scripts/scrape-[brand].ts`)
+- Document the workflow here for future reference

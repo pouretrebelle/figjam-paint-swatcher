@@ -1,29 +1,18 @@
-import fBSwatches from './data/farrowAndBall'
-import lGSwatches from './data/littleGreene'
-import pPLSwatches from './data/paintAndPaperLibrary'
-import eBSwatches from './data/edwardBulmer'
-import lickSwatches from './data/lick'
-import coatSwatches from './data/coat'
+import swatchData from './data/swatches'
 
-const swatchData = Object.entries({
-  'F&B': fBSwatches,
-  'LG': lGSwatches,
-  'P&PL': pPLSwatches,
-  'EB': eBSwatches,
-  'Lick': lickSwatches,
-  'Coat': coatSwatches,
-}).map(([brand, swatches]) => (
-  swatches.map(({ name, hex, link }) => ({
-    name: `${name} (${brand})`,
+const preparedSwatches = swatchData.map((swatch) => {
+  const brand = swatch.brandShortname || swatch.brandName
+  return {
+    name: `${swatch.name} (${brand})`,
     data: {
-      name,
-      hex,
-      link,
+      name: swatch.name,
+      hex: swatch.hex,
+      link: swatch.link,
       brand,
     },
-    icon: `<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="${hex}"/></svg>`
-  })))
-).flat()
+    icon: `<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="${swatch.hex}"/></svg>`
+  }
+})
 
 figma.parameters.on(
   'input',
@@ -32,7 +21,7 @@ figma.parameters.on(
     switch (key) {
       case 'swatch':
         result.setSuggestions(
-          swatchData.filter((s) => {
+          preparedSwatches.filter((s) => {
             const isDuplicate = names.includes(s.name)
             names.push(s.name)
             return !isDuplicate && s.name.toLowerCase().includes(query.toLowerCase())

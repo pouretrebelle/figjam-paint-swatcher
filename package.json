@@ -4,7 +4,9 @@
   "description": "Paint swatches in FigJam",
   "main": "code.js",
   "scripts": {
-    "build": "esbuild src/code.ts --bundle --outfile=code.js",
+    "build:data": "ts-node scripts/build-data.ts",
+    "build": "npm run build:data && esbuild src/code.ts --bundle --outfile=code.js",
+    "seed": "ts-node scripts/seed-db.ts",
     "lint": "eslint --ext .ts,.tsx --ignore-pattern node_modules .",
     "lint:fix": "eslint --ext .ts,.tsx --ignore-pattern node_modules --fix .",
     "watch": "npm run build -- --watch"
@@ -14,10 +16,14 @@
   "devDependencies": {
     "@figma/eslint-plugin-figma-plugins": "*",
     "@figma/plugin-typings": "*",
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^20.10.6",
     "@typescript-eslint/eslint-plugin": "^6.12.0",
     "@typescript-eslint/parser": "^6.12.0",
+    "better-sqlite3": "^12.10.0",
     "esbuild": "^0.23.0",
     "eslint": "^8.54.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.3.2"
   },
   "eslintConfig": {
